@@ -13,5 +13,4 @@ Spr. 2015 Session G (Rating: 4.50)
 
 Spr. 2014 Session C (Rating: 4.00)
 
-
 Spr. 2014 Session G (Rating: 4.10) 
