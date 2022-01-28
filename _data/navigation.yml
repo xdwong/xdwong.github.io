@@ -19,7 +19,8 @@ main:
 #    url: /cv/
     
   - title: "Services"
-    url: /markdown/
+    url: /Services/
+#    url: /markdown/
 
   - title: "Team"
     url: /team/
