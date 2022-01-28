@@ -34,24 +34,15 @@ Professional employment
 * Software Engineer, Softtech Development Inc., Beijing, China, 2006  
 * Assistant Software Engineer, Nantian Software Inc., Beijing, China, 2005
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+Academic honors and awards
+=====
+* Finalist for the 2021 MSOM Service Management SIG award, 2021
+* Rutgers Research Council Award ($1,500), Rutgers University, 2020
+* Catalyst Grant from the Provost’s Fund for Research ($5,000), Rutgers-Camden, 2020
+* Second Place of JFIG Paper Competition, 2019
+* Finalist of 2019 Informs Best Service Science Paper Award, 2019
+* Summer Research Grant Award, Rutgers School of Business-Camden, 2019, 2020
+* Chancellor’s Awards for Outstanding Research and Creative Activity, Rutgers-Camden, 2019
+* The Dean’s Fund for Summer Ph.D. Research Assistants, Rutgers Business School-Newark and New Brunswick, 2019
+* Superior Achievement Award for Research, Rutgers School of Business-Camden, 2018
+* Best Reviewer Award, Journal of Modelling in Management, 2016 
