@@ -1,6 +1,6 @@
 ---
-permalink: /Conference/
-title: "Conference"
+permalink: /team/
+title: "Team"
 author_profile: true
 ---
 
