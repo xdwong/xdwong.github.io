@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Associate Professor, and Bauer Fellow at C T Bauer College of Business of University of Houston. My recent research interests focus on platform and Al. My research has appeared in Management Science, Manufacturing and Service Operations Management, Production and Operations Management, and Strategic Management Journal, among others. I am a Senior Editor for Production and Operations Management, and an Associate Editor for Decision Sciences Journal. To learn more about me, you can download my resume [here](http://dxwong.github.io/files/CV_Meng.pdf).
+I am an Associate Professor, and Bauer Fellow at C T Bauer College of Business of University of Houston. My recent research interests focus on platform and Al. My research has appeared in Management Science, Manufacturing and Service Operations Management, Production and Operations Management, and Strategic Management Journal, among others. I am a Senior Editor for Production and Operations Management, and an Associate Editor for Decision Sciences Journal. To learn more about me, you can download my resume [here](http://xdwong.github.io/files/CV_Meng.pdf).
 
 Education
 =====
