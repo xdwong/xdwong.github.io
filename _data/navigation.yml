@@ -4,9 +4,6 @@ main:
     url: /publications/
 
   - title: "Talks"
-    url: /talks/
-    
-  - title: "Conference"
     url: /Conference/ 
 
   - title: "Teaching"
@@ -18,8 +15,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "Team"
-    url: /cv/
+#  - title: "Team"
+#    url: /cv/
     
   - title: "Services"
     url: /markdown/
