@@ -46,3 +46,9 @@ Academic honors and awards
 * The Dean’s Fund for Summer Ph.D. Research Assistants, Rutgers Business School-Newark and New Brunswick, 2019
 * Superior Achievement Award for Research, Rutgers School of Business-Camden, 2018
 * Best Reviewer Award, Journal of Modelling in Management, 2016 
+
+Publications
+======
+  <ul>{% for post in site.publications %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
