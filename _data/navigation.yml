@@ -8,7 +8,6 @@ main:
 
   - title: "Service"
     url: /Service/
-#    url: /markdown/
 
   - title: "Talks"
     url: /Conference/ 
@@ -18,12 +17,3 @@ main:
     
    - title: "Team"
     url: /team/   
- 
-#  - title: "Conference"
-#    url: /portfolio/
-        
-#  - title: "Blog Posts"
-#    url: /year-archive/
-    
-#  - title: "Team"
-#    url: /cv/
