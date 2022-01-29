@@ -49,5 +49,3 @@ author_profile: true
 
 ## Thesis/Dissertation
 * Ph.D. Dissertation, 2013. “Inventory models with incomplete information,” The University of Texas at Dallas, Richardson, Texas, USA (Advisors: Alain Bensoussan and Suresh Sethi). 
-* M.S. Dissertation, 2008. “Study of flexibility indices in manufacturing flexibility design,” Oklahoma State University, Stillwater, OK, USA (Advisor: Tieming Liu). 
-* M.S. Dissertation, 2005. “Comparison and application of support vector machine and orthogonal design method,” Tianjin University, Tianjin, China (Advisor: Fanzhen Meng). 
