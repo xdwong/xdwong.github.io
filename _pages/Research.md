@@ -41,3 +41,8 @@ author_profile: true
   5. Wei Gu, <b>Meng Li</b>, Shichen Zhang, [AI supervisor and worker performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3968005), <i>Production and Operations Management</i> (invited for second review; first-round decision: Major Revision).
   
   6. <b>Meng Li</b>, Shujing Sun, Field experiment in operations management, (invited by <i>Journal of Operations Management</i>).
+
+
+## Book chapters
+
+  1. Alain Bensoussan, Metin Çakanyildirim, <b>Meng Li</b>, Suresh P. Sethi, [Existence and uniqueness of solutions for a partially observed stochastic control problem](https://www.worldscientific.com/doi/pdf/10.1142/9789814383318_0017), <i>Stochastic Processes, Finance and Control: A Festschrift in Honor of Robert J. Elliott, S. Cohen, D. Madan, T. K. Siu, and H. Yang (eds.)</i>, World Scientific, 2012, 393–413. 
