@@ -16,6 +16,9 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
+   - title: "Team"
+    url: /team/   
+ 
 #  - title: "Conference"
 #    url: /portfolio/
         
@@ -24,7 +27,3 @@ main:
     
 #  - title: "Team"
 #    url: /cv/
-   
-
-  - title: "Team"
-    url: /team/
