@@ -7,24 +7,24 @@ author_profile: true
 
 ## Senior Editor
 
-* Production and Operations Management, 2019- present
+* <i>Production and Operations Management</i>, 2019- present
 
 
 ## Associate Editor
 
-* Decision Sciences Journal, 2019-present
-* Journal of Modelling in Management, 2014-2017
+* <i>Decision Sciences Journal</i>, 2019-present
+* <i>Journal of Modelling in Management</i>, 2014-2017
 
 
 ## Editor
 
-* Transportation Research Part E: Special Issue on Platforms for Logistics and Supply Chain Operations 
+* <i>Transportation Research Part E: Special Issue on Platforms for Logistics and Supply Chain Operations</i> 
 
 
 ## Editorial Board
 
-* Journal of Operations Management, 2021-present
-* Production and Operations Management, 2017-2019
+* <i>Journal of Operations Management</i>, 2021-present
+* <i>Production and Operations Management</i>, 2017-2019
 
 
 ## Judge/Chair for Competition
