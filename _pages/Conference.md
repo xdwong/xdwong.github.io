@@ -1,6 +1,6 @@
 ---
 permalink: /Conference/
-title: "Conference"
+title: "Talks"
 author_profile: true
 ---
 
