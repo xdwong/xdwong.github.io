@@ -39,3 +39,14 @@
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+@font-face {
+    font-family: "WGHT";
+    src: url("/assets/fonts/CrimsonPro-VariableFont_wght.ttf");
+}
+
+
+body {
+    font-family: "WGHT";  
+    font-size: 20px;  
+}
