@@ -2,18 +2,29 @@
 main:
   - title: "Publications"
     url: /publications/
-    
+
+
   - title: "Future Papers"
-    url: /Future Papers/
+    url: /Future Papers/    
 
   - title: "Service"
     url: /Service/
 
   - title: "Talks"
-    url: /Conference/ 
+    url: /talks/    
 
   - title: "Teaching"
     url: /teaching/    
     
-   - title: "Team"
-    url: /team/   
+#  - title: "Conference"
+#    url: /portfolio/
+        
+#  - title: "Blog Posts"
+#    url: /year-archive/
+    
+  - title: "Team"
+    url: /team/
+#    url: /cv/
+    
+#  - title: "Services"
+#    url: /markdown/
