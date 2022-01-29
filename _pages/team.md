@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-## STUDENT and VISITING SCHOLAR SUPERVISION 
+## Student and visiting scholar supervision
 
 * Qiang Li, PhD student at Rutgers University, Co-major Supervisor (with Xiaowei Xu), 2018-21  
   - 2019 Dean’s fund for summer research, Rutgers Business School-Newark and New Brunswick
@@ -23,6 +23,6 @@ author_profile: true
   - Placement: Assistant Professor, Nankai University, Tianjin, China
 * Tingting Zhang, PhD student at University of Science and Technology of China, 2018-20
 
-## POST-DOC
+## Post-Doc
 
 * Qiang Li, University of Houston, 2021-Present   
