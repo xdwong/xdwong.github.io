@@ -6,6 +6,10 @@ main:
   - title: "Future Papers"
     url: /Future Papers/
 
+  - title: "Service"
+    url: /Service/
+#    url: /markdown/
+
   - title: "Talks"
     url: /Conference/ 
 
@@ -20,10 +24,7 @@ main:
     
 #  - title: "Team"
 #    url: /cv/
-    
-  - title: "Service"
-    url: /Service/
-#    url: /markdown/
+   
 
   - title: "Team"
     url: /team/
