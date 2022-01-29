@@ -27,8 +27,8 @@ author_profile: true
 * Production and Operations Management, 2017-2019
 
 
-## AD-HOC journal referee
-Operations Research, Production and Operations Management, Manufacturing & Service Operations Management, Management Science, Information Systems Research, Strategic Management Journal, Decision Sciences, Journal of Operations Management, IIE Transactions, Naval Research Logistics, European Journal of Operational Research, Annals of Operations Research, Journal of Systems Science and Systems Engineering, International Journal of Production Research, International Journal of Production Economics, Informs Service Science, Journal of the Operational Research Society, Omega---The International Journal of Management Science, Socio-Economic Planning Sciences, Economic Modelling, Electronic Commerce Research, Journal of Business Analytics
+<!--## AD-HOC journal referee
+Operations Research, Production and Operations Management, Manufacturing & Service Operations Management, Management Science, Information Systems Research, Strategic Management Journal, Decision Sciences, Journal of Operations Management, IIE Transactions, Naval Research Logistics, European Journal of Operational Research, Annals of Operations Research, Journal of Systems Science and Systems Engineering, International Journal of Production Research, International Journal of Production Economics, Informs Service Science, Journal of the Operational Research Society, Omega---The International Journal of Management Science, Socio-Economic Planning Sciences, Economic Modelling, Electronic Commerce Research, Journal of Business Analytics.-->
 
 
 ## Judge/Chair for competition
@@ -53,7 +53,7 @@ Operations Research, Production and Operations Management, Manufacturing & Servi
 * Co-chair, INFORMS Service Science Best Student Paper Award, 2021
 * Panel Discussant of Decision Sciences in Practice, DSI Conference, 2021 
 * Secretary-Treasurer, INFORMS Service Science Section, 2021-present 
-* Strategic Planning and Growth Committee, School of Business-Camden, Rutgers University, 2020 
+<!--* Strategic Planning and Growth Committee, School of Business-Camden, Rutgers University, 2020 
 * Research Committee, School of Business-Camden, Rutgers University, 2019 
 * Reappointment Review Committee for NTT, Rutgers School of Business-Camden, 2020 
 * Search Committee of NTT Instructor, Rutgers School of Business-Camden, 2019 
@@ -63,4 +63,4 @@ Operations Research, Production and Operations Management, Manufacturing & Servi
 * Committee for Data Analytics Track and FLM, Rutgers School of Business-Camden, 2017 
 * Curriculum Committee, Charlton College of Business, UMass Dartmouth, 2015-16 
 * POM 212 Coordinator, Charlton College of Business, UMass Dartmouth, 2015-16 
-* Committee for Ranking of Business School, UMass Dartmouth, 2015-16 
+* Committee for Ranking of Business School, UMass Dartmouth, 2015-16 -->
