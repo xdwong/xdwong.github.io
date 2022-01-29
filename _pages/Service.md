@@ -5,33 +5,33 @@ author_profile: true
 ---
 
 
-## SENIOR EDITOR
+## Senior editor
 
 * Production and Operations Management, 2019- present
 
 
-## ASSOCIATE EDITOR
+## Associate editor
 
 * Decision Sciences Journal, 2019-present
 * Journal of Modelling in Management, 2014-2017
 
 
-## EDITOR
+## Editor
 
 * Transportation Research Part E: Special Issue on Platforms for Logistics and Supply Chain Operations 
 
 
-## EDITORIAL BOARD
+## Editorial board
 
 * Journal of Operations Management, 2021-present
 * Production and Operations Management, 2017-2019
 
 
-## AD-HOC JOURNAL REFEREE
+## AD-HOC journal referee
 Operations Research, Production and Operations Management, Manufacturing & Service Operations Management, Management Science, Information Systems Research, Strategic Management Journal, Decision Sciences, Journal of Operations Management, IIE Transactions, Naval Research Logistics, European Journal of Operational Research, Annals of Operations Research, Journal of Systems Science and Systems Engineering, International Journal of Production Research, International Journal of Production Economics, Informs Service Science, Journal of the Operational Research Society, Omega---The International Journal of Management Science, Socio-Economic Planning Sciences, Economic Modelling, Electronic Commerce Research, Journal of Business Analytics
 
 
-## JUDGE/CHAIR FOR COMPETITION
+## Judge/Chair for competition
 
 * Judge, INFORMS Poster Competition, 2021
 * Co-chair, INFORMS Service Science Best Student Paper Award, 2021
@@ -40,7 +40,7 @@ Operations Research, Production and Operations Management, Manufacturing & Servi
 * Judge, INFORMS Behavioral Operations Working Paper Competition, 2020, 2021
 
 
-## SESSION CHAIR, CONFERENCE ORGANIZER
+## Session chair, conference organizer
 
 * Session Chair, National Conference on Supply Chain and Operation Management, 2021
 * Organizer, Informs Service Science Doctoral Student Consortium, 2021 
@@ -49,7 +49,7 @@ Operations Research, Production and Operations Management, Manufacturing & Servi
 * Session Chair, OM/marketing interface, China marketing international conference, Guangzhou, 2019
 
 
-## OTHERS
+## Others
 * Co-chair, INFORMS Service Science Best Student Paper Award, 2021
 * Panel Discussant of Decision Sciences in Practice, DSI Conference, 2021 
 * Secretary-Treasurer, INFORMS Service Science Section, 2021-present 
