@@ -4,7 +4,7 @@ title: "Talks"
 author_profile: true
 ---
 
-## Invited seminars
+### Invited seminars
 
 * Two Empirical Studies on Disruptive Innovation, University of Science and Technology of China, 2021
 * Two Empirical Studies on Disruptive Innovation, Tsinghua University, 2021
@@ -21,7 +21,7 @@ author_profile: true
 * Overconfident competing newsvendors, Tsinghua University, Beijing, 2016 
 * Product returns in distribution channels, University of Pennsylvania, Philadelphia, 2015
 
-## Conference presentations
+### Conference presentations
 
 * Last-mile commute and food service, INFORMS, Seattle, 2019 
 * Overconfident distribution channels, INFORMS, Phoenix, 2018 
@@ -47,5 +47,5 @@ author_profile: true
 * Competing with bandit supply chains, INFORMS International, Beijing, 2012 
 * Competing with bandit supply chains, INFORMS, Phoenix, 2012
 
-## Thesis/Dissertation
+### Thesis/Dissertation
 * Ph.D. Dissertation, 2013. “Inventory models with incomplete information,” The University of Texas at Dallas, Richardson, Texas, USA (Advisors: Alain Bensoussan and Suresh Sethi). 
