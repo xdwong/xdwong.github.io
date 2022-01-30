@@ -5,29 +5,29 @@ author_profile: true
 ---
 
 
-## Senior Editor
+### Senior Editor
 
 * <i>Production and Operations Management</i>, 2019- present
 
 
-## Associate Editor
+### Associate Editor
 
 * <i>Decision Sciences Journal</i>, 2019-present
 * <i>Journal of Modelling in Management</i>, 2014-2017
 
 
-## Editor
+### Editor
 
 * <i>Transportation Research Part E: Special Issue on Platforms for Logistics and Supply Chain Operations</i> 
 
 
-## Editorial Board
+### Editorial Board
 
 * <i>Journal of Operations Management</i>, 2021-present
 * <i>Production and Operations Management</i>, 2017-2019
 
 
-## Judge/Chair for Competition
+### Judge/Chair for Competition
 
 * Judge, INFORMS Poster Competition, 2021
 * Co-chair, INFORMS Service Science Best Student Paper Award, 2021
@@ -36,7 +36,7 @@ author_profile: true
 * Judge, INFORMS Behavioral Operations Working Paper Competition, 2020, 2021
 
 
-## Session Chair, Conference Organizer
+### Session Chair, Conference Organizer
 
 * Session Chair, National Conference on Supply Chain and Operation Management, 2021
 * Organizer, Informs Service Science Doctoral Student Consortium, 2021 
@@ -45,7 +45,7 @@ author_profile: true
 * Session Chair, OM/marketing interface, China marketing international conference, Guangzhou, 2019
 
 
-## Others
+### Others
 * Co-chair, INFORMS Service Science Best Student Paper Award, 2021
 * Panel Discussant of Decision Sciences in Practice, DSI Conference, 2021 
 * Secretary-Treasurer, INFORMS Service Science Section, 2021-present 
