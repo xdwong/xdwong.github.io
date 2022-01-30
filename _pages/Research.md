@@ -6,7 +6,7 @@ author_profile: true
 
 ## Selected Journal Publications
 
-  1. Ruomeng Cui, <b>Meng Li</b>, Shichen Zhang, [AI and procurement](https://pubsonline.informs.org/doi/abs/10.1287/msom.2021.0989), <i>Manufacturing & Service Operations Management</i>, forthcoming.
+  1. Ruomeng Cui, <b>Meng Li</b>, Shichen Zhang, [AI and procurement](https://pubsonline.informs.org/doi/abs/10.1287/msom.2021.0989), <i>Manufacturing & Service Operations Management</i>, forthcoming. <a href="https://xdwong.github.io/files/AI and Procurement.pdf"><img src="https://img.shields.io/badge/Download-blue.svg" alt="Download"></a>
 
   2. <b>Meng Li</b>, Tao Li, [AI automation and retailer regret in supply chains](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13498), <i>Production and Operations Management</i>, forthcoming.
 
