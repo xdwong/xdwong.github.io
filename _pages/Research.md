@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-## Selected Journal Publications
+### Selected Journal Publications
 
   1. Ruomeng Cui, <b>Meng Li</b>, Shichen Zhang, [AI and procurement](https://pubsonline.informs.org/doi/abs/10.1287/msom.2021.0989), <i>Manufacturing & Service Operations Management</i>, forthcoming. <a href="https://xdwong.github.io/files/AI and Procurement.pdf"><img src="https://img.shields.io/badge/Download-blue.svg" alt="Download"></a>
 
@@ -47,7 +47,7 @@ author_profile: true
   20. Tieming Liu, <b>Meng Li</b>, [Structural flexibility indices with shrinking capacities in cross production](https://www.tandfonline.com/doi/pdf/10.1080/00207543.2010.537386), <i>International Journal of Production Research</i>, 2012, 50(2), 393–407.
 
 
-## Selected Working Papers
+### Selected Working Papers
 
   1. <b>Meng Li</b>, Newsvendor with customer referrals, <i>Production and Operations Management</i> (invited for second review; first-round decision: Major Revision).
 
