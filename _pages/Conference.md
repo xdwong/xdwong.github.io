@@ -6,7 +6,10 @@ author_profile: true
 
 ### Invited seminars
 
+* Managerial Bias in Revenue Management, University of Florida, 2022
+* Managerial Bias in Revenue Management, The Hong Kong Polytechnic University, 2022
 * Two Empirical Studies on Disruptive Innovation, University of Science and Technology of China, 2021
+* Two Empirical Studies on Disruptive Innovation, B, 2021
 * Two Empirical Studies on Disruptive Innovation, Tsinghua University, 2021
 * Revenue management of online platforms, Duke University, Durham, NC, 2020 
 * AI and procurement, University of Nebraska–Lincoln, Lincoln, NE, 2020 
