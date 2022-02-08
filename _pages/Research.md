@@ -44,7 +44,7 @@ author_profile: true
 
   19. <b>Meng Li</b>, Jun Zhang, [Does inventory pooling improve customer service levels?](https://www.sciencedirect.com/science/article/abs/pii/S0167637711001398) <i>Operations Research Letters</i>, 2012, 40(12), 96–98. 
 
-  20. Tieming Liu, <b>Meng Li</b>, [Structural flexibility indices with shrinking capacities in cross production](https://www.tandfonline.com/doi/pdf/10.1080/00207543.2010.537386), <i>International Journal of Production Research</i>, 2012, 50(2), 393–407.
+  <!--20. Tieming Liu, <b>Meng Li</b>, [Structural flexibility indices with shrinking capacities in cross production](https://www.tandfonline.com/doi/pdf/10.1080/00207543.2010.537386), <i>International Journal of Production Research</i>, 2012, 50(2), 393–407.-->
 
 
 ### Selected Working Papers
@@ -55,11 +55,11 @@ author_profile: true
 
   3. <b>Meng Li</b>, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747717), <i>Journal of Operations Management</i> (invited for second review; first-round decision: Major Revision).
 
-  4. Lijun Bo, <b>Meng Li</b>, Tingting Zhang, Optimal stopping when information arrives with time-varying and stochastic intensity, working paper. 
+  <!--4. Lijun Bo, <b>Meng Li</b>, Tingting Zhang, Optimal stopping when information arrives with time-varying and stochastic intensity, working paper. -->
 
-  5. Wei Gu, <b>Meng Li</b>, Shichen Zhang, [AI supervisor and worker performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3968005), <i>Production and Operations Management</i> (invited for second review; first-round decision: Major Revision).
+  <!--5. Wei Gu, <b>Meng Li</b>, Shichen Zhang, [AI supervisor and worker performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3968005), <i>Production and Operations Management</i> (invited for second review; first-round decision: Major Revision).-->
   
-  6. <b>Meng Li</b>, Shujing Sun, Field experiment in operations management, (invited by <i>Journal of Operations Management</i>).
+  <!--6. <b>Meng Li</b>, Shujing Sun, Field experiment in operations management, (invited by <i>Journal of Operations Management</i>).-->
 
 
 ### Book chapters
