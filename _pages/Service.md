@@ -18,8 +18,7 @@ author_profile: true
 
 ### Editor
 
-* <i>Transportation Research Part E: Special Issue on Platforms for Logistics and Supply Chain Operations</i> 
-* <i>Production and Operaitons Management: Special Issue on Responsible Data Science</i> 
+* <i>Transportation Research Part E: Special Issue on Platforms for Logistics and Supply Chain Operations</i>  
 
 ### Editorial Board
 
