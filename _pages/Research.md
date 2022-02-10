@@ -53,7 +53,7 @@ author_profile: true
 
   2. Bora Keskin, <b>Meng Li</b>, Dynamic pricing of vertically differentiated products with unknown customer heterogeneity, <i>Operations Research</i> (invited for third review; second-round decision: Minor Revision).
 
-  3. <b>Meng Li</b>, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747717), <i>Journal of Operations Management</i> (invited for second review; first-round decision: Major Revision).
+  3. <b>Meng Li</b>, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747717), <i>Journal of Operations Management</i> (invited for third review; second-round decision: Major Revision).
   
   4. Yang Gao, <b>Meng Li</b>, Shujing Sun, Field experiment in operations management, (invited by <i>Journal of Operations Management</i>). 
 
