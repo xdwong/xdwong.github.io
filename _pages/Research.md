@@ -49,7 +49,7 @@ author_profile: true
 
 ### Selected Working Papers
 
-  1. <b>Meng Li</b>, Newsvendor with customer referrals, <i>Production and Operations Management</i> (invited for second review; first-round decision: Major Revision).
+  1. <b>Meng Li</b>, Newsvendor with customer referrals, <i>Production and Operations Management</i> (invited for third review; second-round decision: Minor Revision).
 
   2. Bora Keskin, <b>Meng Li</b>, Dynamic pricing of vertically differentiated products with unknown customer heterogeneity, <i>Operations Research</i> (invited for third review; second-round decision: Minor Revision).
 
