@@ -37,6 +37,7 @@ author_profile: true
 
 ### Session Chair, Conference Organizer
 
+* Cluster Chair, Informs Annual Meeting, 2022
 * Session Chair, National Conference on Supply Chain and Operation Management, 2021
 * Organizer, Informs Service Science Doctoral Student Consortium, 2021 
 * Track Chair, Empirical operations management.  POMS, D.C., 2019
