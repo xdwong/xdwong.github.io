@@ -10,7 +10,7 @@ author_profile: true
 * Zhi Cao, PhD student at University of Electronic Science and Technology of China, 2021-present 
    - Research Intern, Baidu Inc, Beijing 
 * Ting Hou, PhD student at University of Science and Technology of China, 2021-present 
-   - Research Intern, ChunYu Inc, Beijing 
+   - Research Intern, Chunyu Inc, Beijing 
 * Qiang Li, PhD student at Rutgers University, Co-major Supervisor (with Xiaowei Xu), 2018-21  
   - 2019 Dean’s fund for summer research, Rutgers Business School-Newark and New Brunswick
   - 2019-2020 Dissertation Fellowship Award, Rutgers Business School-Newark and New Brunswick
