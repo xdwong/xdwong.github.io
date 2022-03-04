@@ -22,7 +22,7 @@ author_profile: true
 * Yue Li, PhD student at Tsinghua University, Co-major Supervisor (with Xiaobo Zhao), 2018-present
   - Research Intern, Alibaba, Hangzhou, China. 
 * Baixun Li, Associate professor at Guangdong University of Finance and Economics, 2017-18
-  -Professor, Shantou University, China
+  - Professor, Shantou University, China
 * Shichen Zhang, PhD student at Tianjin University, 2019-20
   - Best Student Paper, International Workshop on Behavioral Operations Management, 2020
   - Placement: Assistant Professor, Nankai University, Tianjin, China
