@@ -31,5 +31,5 @@ author_profile: true
 ### Post-Doc
 
 * Qiang Li, University of Houston, 2021-Present  
-  - Placement: Postdoctoral Fellow, University of Science and Technology of China, Hefei, China
+  - Placement: Assistant Professor, Wilfrid Laurier University, Waterloo, Canada
  
