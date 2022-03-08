@@ -18,6 +18,7 @@ Education
 
 Academic Honors and Awards
 -----
+* Finalist for the POMS College of Operational Excellence Best Paper Competition, 2022
 * Finalist for the 2021 MSOM Service Management SIG award, 2021
 * Rutgers Research Council Award ($1,500), Rutgers University, 2020
 * Catalyst Grant from the Provost’s Fund for Research ($5,000), Rutgers-Camden, 2020
