@@ -27,9 +27,7 @@ author_profile: true
 * Baixun Li, Associate professor at Guangdong University of Finance and Economics, 2017-18
   - Professor, Shantou University, China
 
- 
-
-### Post-Doc
+ ### Post-Doc
 
 * Qiang Li, University of Houston, 2021-Present   
  
