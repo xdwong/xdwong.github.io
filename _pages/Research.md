@@ -16,12 +16,12 @@ author_profile: true
 
   5. <b>Meng Li</b>, Yunchuan Liu, [Beneficial product returns in supply chains](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13519), <i>Production and Operations Management</i>, 2021, 30 (11), 3849–3855.
 
-  6. Jialu Li, <b>Meng Li</b>, Xuan Zhao, [Transshipment between overconfident newsvendors](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13424), <i>Production and Operations Management</i>, 2021, 30 (9), 2803-2813.
+  6. <b>Meng Li</b>, Book review for “Optimization and control for systems in the big-data era: Theory and applications,” <i>INFORMS Journal on Applied Analytics</i>, forthcoming.
 
-  7. <b>Meng Li</b>, Book review for “Optimization and control for systems in the big-data era: Theory and applications,” <i>INFORMS Journal on Applied Analytics</i>, forthcoming.
+  7. Ruomeng Cui, Jingyun Li, <b>Meng Li</b>, Lili Yu, [Wholesale price discrimination in global sourcing](https://pubsonline.informs.org/doi/abs/10.1287/msom.2019.0862), <i>Manufacturing & Service Operations Management</i>, 2021, 23 (5), 1005-1331 .
 
-  8. Ruomeng Cui, Jingyun Li, <b>Meng Li</b>, Lili Yu, [Wholesale price discrimination in global sourcing](https://pubsonline.informs.org/doi/abs/10.1287/msom.2019.0862), <i>Manufacturing & Service Operations Management</i>, 2021, 23 (5), 1005-1331 .
-
+  8. Jialu Li, <b>Meng Li</b>, Xuan Zhao, [Transshipment between overconfident newsvendors](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13424), <i>Production and Operations Management</i>, 2021, 30 (9), 2803-2813.
+  
   9. Ruomeng Cui, <b>Meng Li</b>, Qiang Li, [Value of high-quality logistics: Evidence from a clash between SF Express and Alibaba](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2019.3411), <i>Management Science</i>, 2020, 66 (9), 3879-3902.
 
   10. Xianjin Du, <b>Meng Li</b>, Brian Wu, [Incumbent repositioning with decision biases](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smj.3047), <i>Strategic Management Journal</i>, 2019, 40(12), 1984-2010.
