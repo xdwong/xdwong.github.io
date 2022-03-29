@@ -30,8 +30,7 @@ author_profile: true
   - Professor, Shantou University, China
 
 
-
- ### Post-Doc
+### Post-Doc 
 
 * Qiang Li, University of Houston, 2021-Present   
  
