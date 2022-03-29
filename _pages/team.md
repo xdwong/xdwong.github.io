@@ -12,7 +12,7 @@ author_profile: true
 * Zhi Cao, PhD student at University of Electronic Science and Technology of China, 2021-present 
    - Research Intern, Baidu Inc, Beijing 
 * Ting Hou, PhD student at University of Science and Technology of China, 2021-present 
-   - Research Intern, Chunyu Inc, Beijing 
+   - Research Intern, Chunyu Yisheng, Beijing 
 * Shichen Zhang, PhD student at Tianjin University, 2019-20
   - Best Student Paper, International Workshop on Behavioral Operations Management, 2020
   - Placement: Assistant Professor, Nankai University, Tianjin, China
