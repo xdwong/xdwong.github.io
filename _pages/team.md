@@ -23,7 +23,8 @@ author_profile: true
   - Placement: Assistant Professor, Lazaridis School of Business and Economics, Wilfrid Laurier University, Canada
 * Lili Yu, PhD student at University of Science and Technology of China, 2018-19 
   - Third-Prize Award, Best Student Paper, POM International Conference China, 2019
-  - Placement: Postdoctoral Fellow, University of Science and Technology of China, Hefei, China
+  - Placement: Postdoctoral Fellow, University of Science and Technology of China, China
+  - Job offer: Assistant Professor, Wuhan University, China
 * Yue Li, PhD student at Tsinghua University, Co-major Supervisor, 2018-present
   - Research Intern, Alibaba, Hangzhou, China. 
 * Baixun Li, Associate professor at Guangdong University of Finance and Economics, 2017-18
