@@ -7,6 +7,8 @@ author_profile: true
 
 ### Student and visiting scholar supervision
 
+* Xudong Wang, PhD student at Tianjin University, 2022-present 
+   - Research Intern, Baidu Inc, Beijing 
 * Zhi Cao, PhD student at University of Electronic Science and Technology of China, 2021-present 
    - Research Intern, Baidu Inc, Beijing 
 * Ting Hou, PhD student at University of Science and Technology of China, 2021-present 
