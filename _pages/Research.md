@@ -16,7 +16,7 @@ author_profile: true
 
   5. <b>Meng Li</b>, Yunchuan Liu, [Beneficial product returns in supply chains](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13519), <i>Production and Operations Management</i>, 2021, 30 (11), 3849–3855.
 
-  6. <b>Meng Li</b>, Newsvendor with customer referrals, <i>Production and Operations Management</i> Production and Operations Management</i>, forthcoming.
+  6. <b>Meng Li</b>, Newsvendor with customer referrals, <i>Production and Operations Management</i>, forthcoming.
 
   7. Ruomeng Cui, Jingyun Li, <b>Meng Li</b>, Lili Yu, [Wholesale price discrimination in global sourcing](https://pubsonline.informs.org/doi/abs/10.1287/msom.2019.0862), <i>Manufacturing & Service Operations Management</i>, 2021, 23 (5), 1005-1331 .
 
