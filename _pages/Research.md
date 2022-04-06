@@ -16,7 +16,7 @@ author_profile: true
 
   5. <b>Meng Li</b>, Yunchuan Liu, [Beneficial product returns in supply chains](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13519), <i>Production and Operations Management</i>, 2021, 30 (11), 3849–3855.
 
-  6. <b>Meng Li</b>, Book review for “Optimization and control for systems in the big-data era: Theory and applications,” <i>INFORMS Journal on Applied Analytics</i>, forthcoming.
+  6. <b>Meng Li</b>, Newsvendor with customer referrals, <i>Production and Operations Management</i> Production and Operations Management</i>, forthcoming.
 
   7. Ruomeng Cui, Jingyun Li, <b>Meng Li</b>, Lili Yu, [Wholesale price discrimination in global sourcing](https://pubsonline.informs.org/doi/abs/10.1287/msom.2019.0862), <i>Manufacturing & Service Operations Management</i>, 2021, 23 (5), 1005-1331 .
 
@@ -49,15 +49,13 @@ author_profile: true
 
 ### Selected Working Papers
 
-  1. <b>Meng Li</b>, Newsvendor with customer referrals, <i>Production and Operations Management</i> (invited for third review; second-round decision: Minor Revision).
+  1. Bora Keskin, <b>Meng Li</b>, Dynamic pricing of vertically differentiated products with unknown customer heterogeneity, <i>Operations Research</i> (invited for third review; second-round decision: Minor Revision).
 
-  2. Bora Keskin, <b>Meng Li</b>, Dynamic pricing of vertically differentiated products with unknown customer heterogeneity, <i>Operations Research</i> (invited for third review; second-round decision: Minor Revision).
-
-  3. <b>Meng Li</b>, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747717), <i>Journal of Operations Management</i> (invited for third review; second-round decision: Major Revision).
+  2. <b>Meng Li</b>, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747717), <i>Journal of Operations Management</i> (invited for third review; second-round decision: Major Revision).
   
-  4. Yang Gao, <b>Meng Li</b>, Shujing Sun, Field experiment in operations management, (invited by <i>Journal of Operations Management</i>). 
+  3. Yang Gao, <b>Meng Li</b>, Shujing Sun, Field experiment in operations management, (invited by <i>Journal of Operations Management</i>). 
 
-  <!--4. Lijun Bo, <b>Meng Li</b>, Tingting Zhang, Optimal stopping when information arrives with time-varying and stochastic intensity, working paper. -->
+  4. Lijun Bo, <b>Meng Li</b>, Tingting Zhang, Evaluation Timing with Dynamic Information: Optimization and Heuristic, <i>Production and Operations Management</i> (invited for second review; first-round decision: Major Revision).
 
   <!--5. Wei Gu, <b>Meng Li</b>, Shichen Zhang, [AI supervisor and worker performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3968005), <i>Production and Operations Management</i> (invited for second review; first-round decision: Major Revision).-->
   
