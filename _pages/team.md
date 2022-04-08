@@ -7,6 +7,9 @@ author_profile: true
 
 ### Student and visiting scholar supervision
 
+* Feiteng, PhD student at University of Houston, 2022-present 
+* Yanan Zhang, PhD student at Shanghai Jiaotong University, 2022-present
+   - Research Intern, Alibaba, Hangzhou 
 * Xudong Wang, PhD student at Tianjin University, 2022-present 
    - Research Intern, Baidu Inc, Beijing 
 * Zhi Cao, PhD student at University of Electronic Science and Technology of China, 2021-present 
