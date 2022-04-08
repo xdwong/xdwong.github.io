@@ -7,7 +7,7 @@ author_profile: true
 
 ### Student and visiting scholar supervision
 
-* Feiteng Huang, PhD student at University of Houston, Major Supervisor, 2022-present 
+* Feiteng Huang, PhD student at University of Houston, 2022-present 
 * Yanan Zhang, PhD student at Shanghai Jiaotong University, 2022-present
    - Research Intern, Alibaba, Hangzhou 
 * Xudong Wang, PhD student at Tianjin University, 2022-present 
