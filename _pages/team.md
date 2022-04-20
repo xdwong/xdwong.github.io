@@ -30,8 +30,6 @@ author_profile: true
 
 ### Post-Doc 
 
-* Qiang Li, University of Houston, 2021-22
-* Jason Wu, University of Houston, 2022-
-* Jian Liu, University of Houston, 2022-
+* Qiang Li, University of Houston, 2021-22 
  
  
