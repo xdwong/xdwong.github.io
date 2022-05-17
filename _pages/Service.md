@@ -20,6 +20,7 @@ author_profile: true
 
 * <i>Transportation Research Part E: Special Issue on Platforms for Logistics and Supply Chain Operations</i>  
 * <i>Production and Operations Management: Special Issue on Responsible Data Science</i>  
+* <i>Decision Sciences Journal: Special Issue on AI-driven Decision Sciences</i> 
 
 ### Editorial Board
 
