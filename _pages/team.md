@@ -23,6 +23,7 @@ author_profile: true
   - Third-Prize Award, Best Student Paper, POM International Conference China, 2019
   - Placement: Postdoctoral Fellow, University of Science and Technology of China, China
   - Job offer: Assistant Professor, Wuhan University, China
+* Tingting Zhang, PhD student at University of Science and Technology, 2018
 * Yue Li, PhD student at Tsinghua University, Co-major Supervisor, 2018-present 
 * Baixun Li, Associate professor at Guangdong University of Finance and Economics, 2017-18
   - Professor, Shantou University, China
@@ -30,6 +31,7 @@ author_profile: true
 
 ### Post-Doc 
 
+* Jason Wu, University of Houston, 2022-
 * Qiang Li, University of Houston, 2021-22 
  
  
