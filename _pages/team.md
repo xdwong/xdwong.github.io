@@ -24,7 +24,8 @@ author_profile: true
   - Placement: Postdoctoral Fellow, University of Science and Technology of China, China
   - Job offer: Assistant Professor, Wuhan University, China
 * Tingting Zhang, PhD student at University of Science and Technology, 2018
-* Yue Li, PhD student at Tsinghua University, Co-major Supervisor, 2018-present 
+* Yue Li, PhD student at Tsinghua University, Co-major Supervisor, 2018-22 
+  - Placement: Assistant Professor, Beijing Jiaotong University, China
 * Baixun Li, Associate professor at Guangdong University of Finance and Economics, 2017-18
   - Professor, Shantou University, China
 
