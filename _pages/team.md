@@ -22,8 +22,7 @@ author_profile: true
   - Placement: Assistant Professor, Lazaridis School of Business and Economics, Wilfrid Laurier University, Canada
 * Lili Yu, PhD student at University of Science and Technology of China, 2018-19 
   - Third-Prize Award, Best Student Paper, POM International Conference China, 2019
-  - Placement: Postdoctoral Fellow, University of Science and Technology of China, China
-  - Job offer: Assistant Professor, Wuhan University, China
+  - Placement: Postdoctoral Fellow, University of Science and Technology of China, China 
 * Tingting Zhang, PhD student at University of Science and Technology, 2018
 * Yue Li, PhD student at Tsinghua University, 2019 
   - Placement: Assistant Professor, Beijing Jiaotong University, China
