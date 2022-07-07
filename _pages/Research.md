@@ -6,7 +6,7 @@ author_profile: true
 
 ### Selected Journal Publications
 
-  1. <b>Meng Li</b>, Yan Liu, [Managerial regret and inventory pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3726966), <i>Management Science</i>, forthcoming.
+  1. <b>Meng Li</b>, Yan Liu, [Managerial regret and inventory pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3726966), <i>Management Science</i>, 2022, 68 (6), 4398-4414.
   
   2. Baixun Li, <b>Meng Li</b>, Chao Liang, [Cry-wolf syndrome in recommendation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3481358), <i>Production and Operations Management</i>, forthcoming.
   
