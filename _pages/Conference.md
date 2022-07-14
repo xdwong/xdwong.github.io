@@ -6,6 +6,7 @@ author_profile: true
 
 ### Invited seminars
 
+* Two Empirical Studies on Disruptive Innovation, Florida State University, 2022
 * Two Empirical Studies on Disruptive Innovation, HPE Data Science Institue, 2022
 * Managerial Bias in Revenue Management, University of Florida, 2022
 * Managerial Bias in Revenue Management, The Hong Kong Polytechnic University, 2022
