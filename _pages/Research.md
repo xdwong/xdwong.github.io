@@ -8,7 +8,7 @@ author_profile: true
 
   1.  <b>Meng Li</b>, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747717), <i>Journal of Operations Management</i>, forthcoming.
  
-  2.   Meng Li, Demand uncertainty reduction among competing retailers, <i>Production and Operations Management</i>, forthcoming.
+  2.   <b>Meng Li</b>, Demand uncertainty reduction among competing retailers, <i>Production and Operations Management</i>, forthcoming.
   
   3. <b>Meng Li</b>, Yan Liu, [Managerial regret and inventory pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3726966), <i>Management Science</i>, 2022, 68 (6), 4398-4414.
   
