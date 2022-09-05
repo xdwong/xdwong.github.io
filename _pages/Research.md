@@ -57,7 +57,7 @@ author_profile: true
   
   2. Yang Gao, <b>Meng Li</b>, Shujing Sun, Field experiment in operations management, <i>Journal of Operations Management</i> (Major Revision). 
   
-  3. Algorithm aversion in distribution channels
+  3. <b>Meng Li</b>, Shichen Zhang, Algorithm aversion in distribution channels
 
 
   <!-- 4. Lijun Bo, <b>Meng Li</b>, Tingting Zhang, Evaluation Timing with Dynamic Information: Optimization and Heuristic, <i>Production and Operations Management</i> (invited for second review; first-round decision: Major Revision).-->
