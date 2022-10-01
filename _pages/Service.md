@@ -5,6 +5,10 @@ author_profile: true
 ---
 
 
+### Department Editor
+
+* <i>ecision Sciences Journal</i>, 2022- present
+
 ### Senior Editor
 
 * <i>Production and Operations Management</i>, 2019- present
@@ -12,7 +16,7 @@ author_profile: true
 
 ### Associate Editor
 
-* <i>Decision Sciences Journal</i>, 2019-present
+* <i>Decision Sciences Journal</i>, 2019-2022
 * <i>Journal of Modelling in Management</i>, 2014-2017
 
 
