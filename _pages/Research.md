@@ -55,7 +55,7 @@ author_profile: true
 
   1. Bora Keskin, <b>Meng Li</b>, Dynamic pricing of vertically differentiated products with unknown customer heterogeneity, <i>Operations Research</i> (Minor Revision). 
   
-  2. Zhi Cao, Jingbo Zhou, Meng Li, Jizhou Huang, Dejing Dou, Urbanites’ mental health undermined by air pollution, <i>Nature Sustainability</i>, conditional acceptance (IF>20).
+  2. Zhi Cao, Jingbo Zhou, <b>Meng Li</b>, Jizhou Huang, Dejing Dou, Urbanites’ mental health undermined by air pollution, <i>Nature Sustainability</i>, conditional acceptance (IF>20).
   
   3. Yang Gao, <b>Meng Li</b>, Shujing Sun, Field experiment in operations management, <i>Journal of Operations Management</i> (Major Revision). 
   
