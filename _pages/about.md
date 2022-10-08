@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am an Associate Professor, and Bauer Fellow at [C.T. Bauer College of Business](https://www.bauer.uh.edu/search/directory/profile.asp?firstname=Meng&lastname=Li), University of Houston. My recent research interests focus on platform and Al. My research has appeared in Management Science, Manufacturing and Service Operations Management, Production and Operations Management, and Strategic Management Journal, among others. I am a Senior Editor for [Production and Operations Management](https://www.poms.org/journal/departments/), and a Department Editor for [Decision Sciences Journal](https://onlinelibrary.wiley.com/page/journal/15405915/homepage/editorialboard.html).
+I am an Associate Professor, and Bauer Fellow at [C.T. Bauer College of Business](https://www.bauer.uh.edu/search/directory/profile.asp?firstname=Meng&lastname=Li), University of Houston. My recent research interests focus on platform and Al. My research has appeared in journals such as Management Science, Manufacturing and Service Operations Management, Production and Operations Management, Journal of operations Management, and Strategic Management Journal, and Nature Sustainability. I am a Senior Editor for [Production and Operations Management](https://www.poms.org/journal/departments/), and a Department Editor for [Decision Sciences Journal](https://onlinelibrary.wiley.com/page/journal/15405915/homepage/editorialboard.html).
 
 Education
 -----
