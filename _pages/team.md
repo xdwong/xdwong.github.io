@@ -29,6 +29,7 @@ author_profile: true
 
 
 ### Post-Doc 
+I am looking for a Post-Doc, with a solid quantitative training, who will work full time at Bauer Human-Centered AI Lab, University of Houston. It can start from Spring 2023 or Fall 2023. If interested, please send me an email at mli at bauer.uh.edu.
 
 * Jian Liu, PhD from NUAA and Missouri S&T, 2022-
 * Jason Wu, PhD from UT Arlington, 2022-
