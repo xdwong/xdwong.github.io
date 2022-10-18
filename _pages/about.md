@@ -19,7 +19,7 @@ Education
 Academic Honors and Awards
 -----
 * Shell Sustainbility Research Grant ($200,000, PI), 2022
-* Finalist for the INFORMS TIMES 2022 Best Working Paper, 2022
+* R for the INFORMS TIMES 2022 Best Working Paper, 2022
 * Best paper for the POMS College of Operational Excellence Best Paper Competition, 2022
 * Finalist for the 2021 MSOM Service Management SIG award, 2021
 * Rutgers Research Council Award, Rutgers University, 2020
