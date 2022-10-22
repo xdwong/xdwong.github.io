@@ -58,7 +58,7 @@ author_profile: true
   
   2. Zhi Cao, Jingbo Zhou, <b>Meng Li</b>, Jizhou Huang, Dejing Dou, Urbanites’ mental health undermined by air pollution, <i>Nature Sustainability</i>, conditional acceptance (IF>20).
   
-  3. Yang Gao, <b>Meng Li</b>, Shujing Sun, Field experiment in operations management, <i>Journal of Operations Management</i> (Minor Revision). 
+  3. Yang Gao, <b>Meng Li</b>, Shujing Sun, Field experiment in operations management, <i>Journal of Operations Management</i> (Minor Revision Invited). 
   
   4. <b>Meng Li</b>, Shichen Zhang, Algorithm aversion in distribution channels
 
