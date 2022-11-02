@@ -18,6 +18,8 @@ Education
 
 Academic Honors and Awards
 -----
+Bauer Human-Centered AI Lab always values industrial cooperation. Over the years, we have worked with multiple Fortune 500, and mid-(small-)size companies. If interested, please send me an email at mli at bauer.uh.edu.
+
 * Shell Sustainbility Research Grant ($200,000), 2022
 * Runners-up for the INFORMS TIMES Best Working Paper, 2022
 * Best paper for the POMS College of Operational Excellence Best Paper Competition, 2022
