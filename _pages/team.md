@@ -6,6 +6,7 @@ author_profile: true
 
 
 ### Student and visiting scholar supervision
+I am looking for students and visiting scholars, with a solid quantitative training, who will work full time at Bauer Human-Centered AI Lab, University of Houston. If interested, please send me an email at mli at bauer.uh.edu.
 
 * Yanan Zhang, PhD student at Shanghai Jiaotong University, 2022-present 
 * Xudong Wang, PhD student at Tianjin University, 2022-present   
@@ -29,7 +30,7 @@ author_profile: true
 
 
 ### Post-Doc 
-I am looking for a Post-Doc, with a solid quantitative training, who will work full time at Bauer Human-Centered AI Lab, University of Houston. It can start from Spring 2023 or Fall 2023. If interested, please send me an email at mli at bauer.uh.edu.
+I am looking for Post-Docs, with a solid quantitative training, who will work full time at Bauer Human-Centered AI Lab, University of Houston. It can start soon. If interested, please send me an email at mli at bauer.uh.edu.
 
 * Jian Liu, PhD from NUAA and Missouri S&T, 2022-
 * Jason Wu, PhD from UT Arlington, 2022-
