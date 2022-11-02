@@ -6,7 +6,7 @@ author_profile: true
 
 
 ### Student and visiting scholar supervision
-I am looking for students and visiting scholars, with a solid quantitative training, who will work full time at Bauer Human-Centered AI Lab, University of Houston. If interested, please send me an email at mli at bauer.uh.edu.
+I am looking for students and visiting scholars, with a solid quantitative training, who study at Bauer Human-Centered AI Lab, University of Houston. If interested, please send me an email at mli at bauer.uh.edu.
 
 * Yanan Zhang, PhD student at Shanghai Jiaotong University, 2022-present 
 * Xudong Wang, PhD student at Tianjin University, 2022-present   
