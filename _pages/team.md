@@ -32,8 +32,8 @@ I am looking for students and visiting scholars, with a solid quantitative train
 ### Post-Doc 
 I am looking for Post-Docs, with a solid quantitative training, who will work full time at Bauer Human-Centered AI Lab, University of Houston. It can start soon. If interested, please send me an email at mli at bauer.uh.edu.
 
-* Jian Liu, PhD from NUAA and Missouri S&T, 2022-
-* Jason Wu, PhD from UT Arlington, 2022-
+<--* Jian Liu, PhD from NUAA and Missouri S&T, 2022- -->
+<--* Jason Wu, PhD from UT Arlington, 2022- -->
 * Qiang Li, PhD from Rutgers, 2021-22, Now at  Wilfrid Laurier University
  
  
