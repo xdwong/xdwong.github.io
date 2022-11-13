@@ -7,10 +7,10 @@ author_profile: true
 
 ### Student and visiting scholar supervision 
 
-* Yanan Zhang, PhD student at Shanghai Jiaotong University, 2022-present 
-* Xudong Wang, PhD student at Tianjin University, 2022-present   
-* Ting Hou, PhD student at University of Science and Technology of China, 2021-present  
-* Zhi Cao, PhD student at University of Electronic Science and Technology of China, 2021-present  
+<!--* Yanan Zhang, PhD student at Shanghai Jiaotong University, 2022-present -->
+<!--* Xudong Wang, PhD student at Tianjin University, 2022-present   -->
+<!--* Ting Hou, PhD student at University of Science and Technology of China, 2021-present --> 
+<!--* Zhi Cao, PhD student at University of Electronic Science and Technology of China, 2021-present  -->
 * Shichen Zhang, PhD student at Tianjin University, 2019-20
   - Best Student Paper, International Workshop on Behavioral Operations Management, 2020
   - Placement: Assistant Professor, Nankai University, Tianjin, China
