@@ -53,7 +53,7 @@ author_profile: true
 
 ### Other Publications
 
-   1. Zhi Cao, Jingbo Zhou, <b>Meng Li</b>, Jizhou Huang, Dejing Dou, Urbanites’ mental health undermined by air pollution, <i>Nature Sustainability</i>. 
+   1. Zhi Cao, Jingbo Zhou, <b>Meng Li</b>, Jizhou Huang, Dejing Dou, Urbanites’ mental health undermined by air pollution, <i>Nature Sustainability</i>, forthcoming. 
 
 ### Selected Working Paper
 
