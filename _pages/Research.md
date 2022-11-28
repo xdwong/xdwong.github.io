@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-### Selected Journal Publications
+### Selected Business Publications
 
   1.  <b>Meng Li</b>, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747717), <i>Journal of Operations Management</i>, forthcoming.
  
@@ -51,12 +51,14 @@ author_profile: true
 
   <!--20. Tieming Liu, <b>Meng Li</b>, [Structural flexibility indices with shrinking capacities in cross production](https://www.tandfonline.com/doi/pdf/10.1080/00207543.2010.537386), <i>International Journal of Production Research</i>, 2012, 50(2), 393–407.-->
 
+### Other Publications
+
+   1. Zhi Cao, Jingbo Zhou, <b>Meng Li</b>, Jizhou Huang, Dejing Dou, Urbanites’ mental health undermined by air pollution, <i>Nature Sustainability</i>. 
 
 ### Selected Working Paper
 
-  1. Bora Keskin, <b>Meng Li</b>, Dynamic pricing of vertically differentiated products with unknown customer heterogeneity, <i>Operations Research</i> (Minor Revision). 
-  
-   <!--2. Zhi Cao, Jingbo Zhou, <b>Meng Li</b>, Jizhou Huang, Dejing Dou, Urbanites’ mental health undermined by air pollution, <i>Nature Sustainability</i>, conditional acceptance (IF>20).-->
+  1. Bora Keskin, <b>Meng Li</b>, Dynamic pricing of vertically differentiated products with unknown customer heterogeneity, <i>Operations Research</i> (Minor Revision).  
+
   
   2. Yang Gao, <b>Meng Li</b>, Shujing Sun, Field experiment in operations management, <i>Journal of Operations Management</i> (Minor Revision). 
   
