@@ -65,7 +65,7 @@ author_profile: true
   3. Lijun Bo, <b>Meng Li</b>, Tingting Zhang, Evaluation Timing with Dynamic Information: Optimization and Heuristic, <i>Production and Operations Management</i> (Minor Revision). 
 
   
-  4. <b>Meng Li</b>, Shichen Zhang, Algorithm aversion in distribution channels
+   <!-- 4. <b>Meng Li</b>, Shichen Zhang, Algorithm aversion in distribution channels-->
 
 
   <!-- 4. Lijun Bo, <b>Meng Li</b>, Tingting Zhang, Evaluation Timing with Dynamic Information: Optimization and Heuristic, <i>Production and Operations Management</i> (invited for second review; first-round decision: Major Revision).-->
