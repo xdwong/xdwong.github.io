@@ -31,8 +31,8 @@ author_profile: true
 
 ### Conference presentations
 
-* Two Empirical Studies on Disruptive Innovation, Keynot Speech, International Forum on Digital Intellectualization and Innovation of Industrial Supply Chains, 2022
 * AI-Driven Decision Sciences, DSJ Mini-Conference, 2023
+* Two Empirical Studies on Disruptive Innovation, Keynot Speech, International Forum on Digital Intellectualization and Innovation of Industrial Supply Chains, 2022
 * AI-Driven Decision Sciences, Keynote Speech, 2nd Artificial Intelligence and Management Conference, 2022
 * Last-mile commute and food service, INFORMS, Seattle, 2019 
 * Overconfident distribution channels, INFORMS, Phoenix, 2018 
