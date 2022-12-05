@@ -6,8 +6,8 @@ author_profile: true
 
 ### Invited seminars
 
-* ISOM Workshop, University of Florida (Scheudled), 2023
-* Lehigh University (Scheudled), 2023.
+* ISOM Workshop, University of Florida (Scheduled), 2023
+* Lehigh University (Scheduled), 2023.
 * Managerial Bias in Revenue Management, University of Miami, 2022
 * Two Empirical Studies on Disruptive Innovation, Florida State University, 2022
 * Two Empirical Studies on Disruptive Innovation, HPE Data Science Institue, 2022
@@ -32,7 +32,7 @@ author_profile: true
 ### Conference presentations
 
 * AI-Driven Decision Sciences, DSJ Mini-Conference, 2023
-* Two Empirical Studies on Disruptive Innovation, Keynot Speech, International Forum on Digital Intellectualization and Innovation of Industrial Supply Chains, 2022
+* Two Empirical Studies on Disruptive Innovation, Keynote Speech, International Forum on Digital Intellectualization and Innovation of Industrial Supply Chains, 2022
 * AI-Driven Decision Sciences, Keynote Speech, 2nd Artificial Intelligence and Management Conference, 2022
 * Last-mile commute and food service, INFORMS, Seattle, 2019 
 * Overconfident distribution channels, INFORMS, Phoenix, 2018 
