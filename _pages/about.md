@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-I am the director of Bauer Human-Centered AI Lab, an Associate Professor, and Bauer Fellow at [C.T. Bauer College of Business](https://www.bauer.uh.edu/search/directory/profile.asp?firstname=Meng&lastname=Li), University of Houston. My recent research interests focus on human-centered AI. My research has appeared in journals such as <i>Management Science</i>, <i>Manufacturing and Service Operations Management</i>, <i>Production and Operations Management</i>, <i>Journal of operations Management</i>, <i>Strategic Management Journal</i>, and <i>Nature Sustainability</i>. I am a Senior Editor for [Production and Operations Management](https://www.poms.org/journal/departments/), and a Department Editor for [Decision Sciences Journal](https://onlinelibrary.wiley.com/page/journal/15405915/homepage/editorialboard.html).
+I am the director of Bauer Human-Centered AI Lab, an Associate Professor, and Bauer Fellow at [C.T. Bauer College of Business](https://www.bauer.uh.edu/search/directory/profile.asp?firstname=Meng&lastname=Li), University of Houston. My recent research interests focus on human-centered AI. My research has appeared in journals such as <i>Management Science</i>, <i>Manufacturing and Service Operations Management</i>, <i>Production and Operations Management</i>, <i>Journal of operations Management</i>, <i>Strategic Management Journal</i>, and <i>Nature Sustainability</i>. I am a Senior Editor for [Production and Operations Management](https://www.poms.org/journal/departments/), and a Department Editor for [Decision Sciences Journal](https://onlinelibrary.wiley.com/page/journal/15405915/homepage/editorialboard.html). My work has been funded by companies such as Shell and HPE. 
 
 Education
 -----
