@@ -31,7 +31,7 @@ author_profile: true
 ### Post-Doc  
 
 <!--* Jian Liu, PhD from NUAA and Missouri S&T, 2022- -->
-<!--* Jason Wu, PhD from UT Arlington, 2022- -->
+* Jason Wu, PhD from UT Arlington, 2022-23, Joining UNSW, Sydney
 * Qiang Li, PhD from Rutgers, 2021-22, Now at  Wilfrid Laurier University
  
  
