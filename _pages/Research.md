@@ -10,7 +10,7 @@ author_profile: true
  
   2.   <b>Meng Li</b>, Demand uncertainty reduction among competing retailers, <i>Production and Operations Management</i>, forthcoming.
   
-  3.   Yang Gao, <b>Meng Li</b>, Shujing Sun, Field experiment in operations management, <i>Journal of Operations Management</i> forthcoming.
+  3.   Yang Gao, <b>Meng Li</b>, Shujing Sun, Field experiments in operations management, <i>Journal of Operations Management</i> forthcoming.
 
   4.  <b>Meng Li</b>, Newsvendors with customer referrals, <i>Production and Operations Management</i>, forthcoming.
   
