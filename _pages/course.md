@@ -9,7 +9,7 @@ author_profile: true
 
 * Mini-MBA, University of Houston, Bauer College of Business, 2021
 
-### 52:620:321 – Optimization & Spreadsheet Modeling
+<---### 52:620:321 – Optimization & Spreadsheet Modeling
 
 * Undergraduate Core Course, Rutgers University, School of Business-Camden, 2018
   - Fall 2020 Session 1, 2, 3 (Rating: effectiveness 4.23, quality 4.20)
@@ -56,3 +56,4 @@ author_profile: true
 * Undergraduate Core Couse, The University of Texas at Dallas, Jindal School of Management, 2012
   - Sum. 2013 (Rating: 4.88)
   - Fall 2012 (Rating: 4.67)
+  - --->
