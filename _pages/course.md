@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ### PhD Level
-* Behaviorial Operations Management, University of Houston, Bauer College of Business, 2022
+* Behavioral Operations Management, University of Houston, Bauer College of Business, 2022
 
 ### MBA Level
 * Mini-MBA on Business Analytics, University of Houston, Bauer College of Business, 2021
