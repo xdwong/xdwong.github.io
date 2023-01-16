@@ -14,7 +14,7 @@ author_profile: true
 
   4.  <b>Meng Li</b>, Newsvendors with customer referrals, <i>Production and Operations Management</i>, forthcoming.
   
-  5. Baixun Li, <b>Meng Li</b>, Chao Liang, [Cry-wolf syndrome in recommendation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3481358), <i>Production and Operations Management</i>, forthcoming.
+  5. Baixun Li, <b>Meng Li</b>, Chao Liang, [Cry-wolf syndrome in recommendation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3481358), <i>Production and Operations Management</i>, forthcoming (lead paper).
  
   6. <b>Meng Li</b>, Yan Liu, [Managerial regret and inventory pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3726966), <i>Management Science</i>, 2022, 68 (6), 4398-4414.
   
@@ -22,12 +22,12 @@ author_profile: true
 
  8. <b>Meng Li</b>, Tao Li, [AI automation and retailer regret in supply chains](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13498), <i>Production and Operations Management</i>, 2022, 31 (1), 83-97.
 
- 9. <b>Meng Li</b>, Yunchuan Liu, [Beneficial product returns in supply chains](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13519), <i>Production and Operations Management</i>, 2021, 30 (11), 3849–3855.
+ 9. <b>Meng Li</b>, Yunchuan Liu, [Beneficial product returns in supply chains](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13519), <i>Production and Operations Management</i>, 2021, 30 (11), 3849–3855 (lead paper).
 
 
  10. Ruomeng Cui, Jingyun Li, <b>Meng Li</b>, Lili Yu, [Wholesale price discrimination in global sourcing](https://pubsonline.informs.org/doi/abs/10.1287/msom.2019.0862), <i>Manufacturing & Service Operations Management</i>, 2021, 23 (5), 1005-1331.
 
- 11. Jialu Li, <b>Meng Li</b>, Xuan Zhao, [Transshipment between overconfident newsvendors](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13424), <i>Production and Operations Management</i>, 2021, 30 (9), 2803-2813.
+ 11. Jialu Li, <b>Meng Li</b>, Xuan Zhao, [Transshipment between overconfident newsvendors](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13424), <i>Production and Operations Management</i>, 2021, 30 (9), 2803-2813 (lead paper).
   
  12. Ruomeng Cui, <b>Meng Li</b>, Qiang Li, [Value of high-quality logistics: Evidence from a clash between SF Express and Alibaba](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2019.3411), <i>Management Science</i>, 2020, 66 (9), 3879-3902.
 
@@ -41,7 +41,7 @@ author_profile: true
 
  17. <b>Meng Li</b>, Nicholas Petruzzi, Jun Zhang, [Overconfident competing newsvendors](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2016.2469), <i>Management Science</i>, 2017, 63(8), 2637–2646.
 
- 18. Alain Bensoussan, Metin Çakanyildirim, <b>Meng Li</b>, Suresh P. Sethi, [Managing inventory with cash register information: Sales recorded but not demands](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.12511), <i>Production and Operations Management</i>, 2016, 25(1), 9–21.
+ 18. Alain Bensoussan, Metin Çakanyildirim, <b>Meng Li</b>, Suresh P. Sethi, [Managing inventory with cash register information: Sales recorded but not demands](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.12511), <i>Production and Operations Management</i>, 2016, 25(1), 9–21 (lead paper).
 
  19. <b>Meng Li</b>, Suresh P. Sethi, Jun Zhang, [Competing with bandit supply chains](https://link.springer.com/article/10.1007/s10479-014-1632-4), <i>Annals of Operations Research</i>, 2016, 240(2), 617–640.
 
