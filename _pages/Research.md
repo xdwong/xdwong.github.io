@@ -14,7 +14,7 @@ author_profile: true
 
   4.  <b>Meng Li</b>, Newsvendors with customer referrals, <i>Production and Operations Management</i>, forthcoming.
   
-  5. Baixun Li, <b>Meng Li</b>, Chao Liang, [Cry-wolf syndrome in recommendation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3481358), <i>Production and Operations Management</i>, forthcoming (lead paper).
+  5. Baixun Li, <b>Meng Li</b>, Chao Liang, [Cry-wolf syndrome in recommendation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3481358), <i>Production and Operations Management</i>, 2023, 32(2), 347-358 (lead paper).
  
   6. <b>Meng Li</b>, Yan Liu, [Managerial regret and inventory pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3726966), <i>Management Science</i>, 2022, 68 (6), 4398-4414.
   
