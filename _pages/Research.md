@@ -6,51 +6,53 @@ author_profile: true
 
 ### Selected Business Publications
 
-  1.  <b>Meng Li</b>, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747717), <i>Journal of Operations Management</i>, forthcoming.
- 
-  2.   <b>Meng Li</b>, [Demand uncertainty reduction among competing retailers](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13954), <i>Production and Operations Management</i>, forthcoming.
+  1. Bora Keskin, <b>Meng Li</b>, Dynamic pricing of vertically differentiated products with unknown customer heterogeneity, <i>Operations Research</i>, forthcoming.  
   
-  3.   Yang Gao, <b>Meng Li</b>, Shujing Sun, [Field experiments in operations management](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1240), <i>Journal of Operations Management</i>, forthcoming.
+  2.  <b>Meng Li</b>, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747717), <i>Journal of Operations Management</i>, forthcoming.
+ 
+  3.   <b>Meng Li</b>, [Demand uncertainty reduction among competing retailers](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13954), <i>Production and Operations Management</i>, forthcoming.
+  
+  4.   Yang Gao, <b>Meng Li</b>, Shujing Sun, [Field experiments in operations management](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1240), <i>Journal of Operations Management</i>, forthcoming.
 
-  4.  <b>Meng Li</b>, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
+  5.  <b>Meng Li</b>, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
   
-  5. Baixun Li, <b>Meng Li</b>, Chao Liang, [Cry-wolf syndrome in recommendation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3481358), <i>Production and Operations Management</i>, 2023, 32(2), 347-358 (lead paper).
+  6. Baixun Li, <b>Meng Li</b>, Chao Liang, [Cry-wolf syndrome in recommendation](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3481358), <i>Production and Operations Management</i>, 2023, 32(2), 347-358 (lead paper).
  
-  6. <b>Meng Li</b>, Yan Liu, [Managerial regret and inventory pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3726966), <i>Management Science</i>, 2022, 68 (6), 4398-4414.
+  7. <b>Meng Li</b>, Yan Liu, [Managerial regret and inventory pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3726966), <i>Management Science</i>, 2022, 68 (6), 4398-4414.
   
-  7. Ruomeng Cui, <b>Meng Li</b>, Shichen Zhang, [AI and procurement](https://pubsonline.informs.org/doi/abs/10.1287/msom.2021.0989), <i>Manufacturing & Service Operations Management</i>, 2022, 24 (2), 691-706 (lead paper). 
+  8. Ruomeng Cui, <b>Meng Li</b>, Shichen Zhang, [AI and procurement](https://pubsonline.informs.org/doi/abs/10.1287/msom.2021.0989), <i>Manufacturing & Service Operations Management</i>, 2022, 24 (2), 691-706 (lead paper). 
 <!--   8. <a href="https://xdwong.github.io/files/AI and Procurement.pdf"><img src="https://img.shields.io/badge/Download-blue.svg" alt="Download"></a> -->
 
- 8. <b>Meng Li</b>, Tao Li, [AI automation and retailer regret in supply chains](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13498), <i>Production and Operations Management</i>, 2022, 31 (1), 83-97.
+ 9. <b>Meng Li</b>, Tao Li, [AI automation and retailer regret in supply chains](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13498), <i>Production and Operations Management</i>, 2022, 31 (1), 83-97.
 
- 9. <b>Meng Li</b>, Yunchuan Liu, [Beneficial product returns in supply chains](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13519), <i>Production and Operations Management</i>, 2021, 30 (11), 3849–3855 (lead paper).
+ 10. <b>Meng Li</b>, Yunchuan Liu, [Beneficial product returns in supply chains](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13519), <i>Production and Operations Management</i>, 2021, 30 (11), 3849–3855 (lead paper).
 
 
- 10. Ruomeng Cui, Jingyun Li, <b>Meng Li</b>, Lili Yu, [Wholesale price discrimination in global sourcing](https://pubsonline.informs.org/doi/abs/10.1287/msom.2019.0862), <i>Manufacturing & Service Operations Management</i>, 2021, 23 (5), 1005-1331.
+ 11. Ruomeng Cui, Jingyun Li, <b>Meng Li</b>, Lili Yu, [Wholesale price discrimination in global sourcing](https://pubsonline.informs.org/doi/abs/10.1287/msom.2019.0862), <i>Manufacturing & Service Operations Management</i>, 2021, 23 (5), 1005-1331.
 
- 11. Jialu Li, <b>Meng Li</b>, Xuan Zhao, [Transshipment between overconfident newsvendors](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13424), <i>Production and Operations Management</i>, 2021, 30 (9), 2803-2813 (lead paper).
+ 12. Jialu Li, <b>Meng Li</b>, Xuan Zhao, [Transshipment between overconfident newsvendors](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13424), <i>Production and Operations Management</i>, 2021, 30 (9), 2803-2813 (lead paper).
   
- 12. Ruomeng Cui, <b>Meng Li</b>, Qiang Li, [Value of high-quality logistics: Evidence from a clash between SF Express and Alibaba](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2019.3411), <i>Management Science</i>, 2020, 66 (9), 3879-3902.
+ 13. Ruomeng Cui, <b>Meng Li</b>, Qiang Li, [Value of high-quality logistics: Evidence from a clash between SF Express and Alibaba](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2019.3411), <i>Management Science</i>, 2020, 66 (9), 3879-3902.
 
- 13. Xianjin Du, <b>Meng Li</b>, Brian Wu, [Incumbent repositioning with decision biases](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smj.3047), <i>Strategic Management Journal</i>, 2019, 40(12), 1984-2010.
+ 14. Xianjin Du, <b>Meng Li</b>, Brian Wu, [Incumbent repositioning with decision biases](https://onlinelibrary.wiley.com/doi/pdf/10.1002/smj.3047), <i>Strategic Management Journal</i>, 2019, 40(12), 1984-2010.
 
- 14. <b>Meng Li</b>, [Overconfident distribution channels](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.12981), <i>Production and Operations Management</i>, 2019, 28(6), 1347-1365.
+ 15. <b>Meng Li</b>, [Overconfident distribution channels](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.12981), <i>Production and Operations Management</i>, 2019, 28(6), 1347-1365.
 
- 15. <b>Meng Li</b>, Tao Li, [Consumer search, transshipment, and bargaining power in a supply chain](https://www.tandfonline.com/doi/pdf/10.1080/00207543.2017.1326644), <i>International Journal of Production Research</i>, 2018, 56(10): 3423-3438.
+ 16. <b>Meng Li</b>, Tao Li, [Consumer search, transshipment, and bargaining power in a supply chain](https://www.tandfonline.com/doi/pdf/10.1080/00207543.2017.1326644), <i>International Journal of Production Research</i>, 2018, 56(10): 3423-3438.
 
- 16. <b>Meng Li</b>, Nicholas Petruzzi, [Technical Note—Demand uncertainty reduction in decentralized supply chains](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.12626), <i>Production and Operations Management</i>, 2017, 26(1), 156–161.
+ 17. <b>Meng Li</b>, Nicholas Petruzzi, [Technical Note—Demand uncertainty reduction in decentralized supply chains](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.12626), <i>Production and Operations Management</i>, 2017, 26(1), 156–161.
 
- 17. <b>Meng Li</b>, Nicholas Petruzzi, Jun Zhang, [Overconfident competing newsvendors](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2016.2469), <i>Management Science</i>, 2017, 63(8), 2637–2646.
+ 18. <b>Meng Li</b>, Nicholas Petruzzi, Jun Zhang, [Overconfident competing newsvendors](https://pubsonline.informs.org/doi/abs/10.1287/mnsc.2016.2469), <i>Management Science</i>, 2017, 63(8), 2637–2646.
 
- 18. Alain Bensoussan, Metin Çakanyildirim, <b>Meng Li</b>, Suresh P. Sethi, [Managing inventory with cash register information: Sales recorded but not demands](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.12511), <i>Production and Operations Management</i>, 2016, 25(1), 9–21 (lead paper).
+ 19. Alain Bensoussan, Metin Çakanyildirim, <b>Meng Li</b>, Suresh P. Sethi, [Managing inventory with cash register information: Sales recorded but not demands](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.12511), <i>Production and Operations Management</i>, 2016, 25(1), 9–21 (lead paper).
 
- 19. <b>Meng Li</b>, Suresh P. Sethi, Jun Zhang, [Competing with bandit supply chains](https://link.springer.com/article/10.1007/s10479-014-1632-4), <i>Annals of Operations Research</i>, 2016, 240(2), 617–640.
+ 20. <b>Meng Li</b>, Suresh P. Sethi, Jun Zhang, [Competing with bandit supply chains](https://link.springer.com/article/10.1007/s10479-014-1632-4), <i>Annals of Operations Research</i>, 2016, 240(2), 617–640.
 
- 20. Alain Bensoussan, Metin Çakanyildirim, <b>Meng Li</b>, Suresh P. Sethi, [Inventory management with overlapping shrinkages and demands](https://content.iospress.com/articles/risk-and-decision-analysis/rda110), <i>Risk and Decision Analysis</i>, 2014, 5(4), 189–210. 
+ 21. Alain Bensoussan, Metin Çakanyildirim, <b>Meng Li</b>, Suresh P. Sethi, [Inventory management with overlapping shrinkages and demands](https://content.iospress.com/articles/risk-and-decision-analysis/rda110), <i>Risk and Decision Analysis</i>, 2014, 5(4), 189–210. 
 
- 21. Alain Bensoussan, Metin Çakanyildirim, <b>Meng Li</b>, Suresh P. Sethi, [Optimal inventory control with shrinkage and observed sales](https://www.tandfonline.com/doi/pdf/10.1080/17442508.2013.802091), 2013, <i>Stochastics</i>, 85(4), 589–603.  
+ 22. Alain Bensoussan, Metin Çakanyildirim, <b>Meng Li</b>, Suresh P. Sethi, [Optimal inventory control with shrinkage and observed sales](https://www.tandfonline.com/doi/pdf/10.1080/17442508.2013.802091), 2013, <i>Stochastics</i>, 85(4), 589–603.  
 
- 22. <b>Meng Li</b>, Jun Zhang, [Does inventory pooling improve customer service levels?](https://www.sciencedirect.com/science/article/abs/pii/S0167637711001398) <i>Operations Research Letters</i>, 2012, 40(12), 96–98. 
+ 23. <b>Meng Li</b>, Jun Zhang, [Does inventory pooling improve customer service levels?](https://www.sciencedirect.com/science/article/abs/pii/S0167637711001398) <i>Operations Research Letters</i>, 2012, 40(12), 96–98. 
 
   <!--20. Tieming Liu, <b>Meng Li</b>, [Structural flexibility indices with shrinking capacities in cross production](https://www.tandfonline.com/doi/pdf/10.1080/00207543.2010.537386), <i>International Journal of Production Research</i>, 2012, 50(2), 393–407.-->
 
@@ -60,11 +62,9 @@ author_profile: true
 
 ### Selected Working Paper
 
-  1. Bora Keskin, <b>Meng Li</b>, Dynamic pricing of vertically differentiated products with unknown customer heterogeneity, <i>Operations Research</i> (Minor Revision).  
-
+ 
   
-  
-  2. Lijun Bo, <b>Meng Li</b>, Tingting Zhang, Evaluation Timing with Dynamic Information: Optimization and Heuristic, <i>Production and Operations Management</i> (Minor Revision). 
+  1. Lijun Bo, <b>Meng Li</b>, Tingting Zhang, Evaluation Timing with Dynamic Information: Optimization and Heuristic, <i>Production and Operations Management</i> (Minor Revision). 
 
   
    <!-- 4. <b>Meng Li</b>, Shichen Zhang, Algorithm aversion in distribution channels-->
