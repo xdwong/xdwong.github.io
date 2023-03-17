@@ -6,7 +6,7 @@ author_profile: true
 
 ### Selected Business Publications
 
-  1. Bora Keskin, <b>Meng Li</b>, Dynamic pricing of vertically differentiated products with unknown customer heterogeneity, <i>Operations Research</i>, forthcoming.  
+  1. Bora Keskin, <b>Meng Li</b>, Selling quality-differentiated products in a Markovian market with unknown transition probabilities, <i>Operations Research</i>, forthcoming.  
   
   2.  <b>Meng Li</b>, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747717), <i>Journal of Operations Management</i>, forthcoming.
  
