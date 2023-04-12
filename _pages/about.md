@@ -19,6 +19,7 @@ Education
 Academic Honors and Awards
 ----- 
 
+* Finalist of the 2023 POMS CSOM Best Student Paper, 2023
 * Shell Sustainbility Research Grant ($100,000), 2022
 * Runners-up for the INFORMS TIMES Best Working Paper, 2022
 * Best paper for the POMS College of Operational Excellence Best Paper Competition, 2022
