@@ -19,6 +19,7 @@ Education
 Academic Honors and Awards
 ----- 
 
+* Lucile and Leroy Melcher Excellence in Research Award, 2023
 * Finalist of the POMS College of Service Operations Management (CSOM) Best Student Paper, 2023
 * Shell Sustainbility Research Grant ($100,000), 2022
 * Runners-up for the INFORMS TIMES Best Working Paper, 2022
