@@ -6,8 +6,7 @@ author_profile: true
 
 ### Invited seminars
 
-* ISOM Workshop, University of Florida (Scheduled), 2023
-* Lehigh University (Scheduled), 2023 
+* ISOM Workshop, University of Florida (Scheduled), 2023 
 * Managerial Behavior in Revenue Management, Texas A&M University, 2023
 * Managerial Bias in Revenue Management, University of Miami, 2022
 * Two Empirical Studies on Disruptive Innovation, Florida State University, 2022
