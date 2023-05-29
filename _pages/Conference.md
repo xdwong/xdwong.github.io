@@ -31,6 +31,7 @@ author_profile: true
 
 ### Conference presentations
 
+* Tutorial: AI in Operatoins Management, POM Conference, Orlando, 2023
 * AI-driven decision sciences, DSJ Mini-Conference, 2023
 * Last-mile commute and food service, INFORMS, Seattle, 2019 
 * Overconfident distribution channels, INFORMS, Phoenix, 2018 
