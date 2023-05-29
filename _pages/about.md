@@ -19,6 +19,7 @@ Education
 Academic Honors and Awards
 ----- 
 
+* Global Business Management Award, 8th NA Industrial Engineering and Operations Management Conference, 2023
 * Lucile and Leroy Melcher Excellence in Research Award, 2023
 * Winner of the POMS College of Service Operations Management (CSOM) Best Student Paper, 2023
 * Shell Sustainbility Research Grant ($100,000), 2022
