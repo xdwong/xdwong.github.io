@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
 #   name             : "Dr. Meng Li"
-  name             : 
+  name             : |
     <p style="text-align:center">
       Dr. Meng Li
     </p>
