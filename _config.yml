@@ -85,8 +85,7 @@ author:
 #   bio              : 'Director of Bauer Human-Centered AI Lab'
   bio              : |
     <p style="color: red">
-      Director of Bauer Human-Centered AI Lab\n
-      SCM PhD coordinator
+      Director of Bauer Human-Centered AI Lab <br/> SCM PhD coordinator
     </p>
   location         : "Houston, TX 77204"
   employer         :
