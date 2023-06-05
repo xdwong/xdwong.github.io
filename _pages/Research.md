@@ -65,6 +65,10 @@ author_profile: true
  
   
   1. Lijun Bo, <b>Meng Li</b>, Tingting Zhang, Evaluation Timing with Dynamic Information: Optimization and Heuristic, <i>Production and Operations Management</i> (Minor Revision). 
+  2. <b>Meng Li</b>, Ricky Tan, Huazhong Zhao, Ting Hou, Tingting Zhang Physician Adoption of AI Assistant.
+      -- Winner of the POMS College of Service Operations Management (CSOM) Best Student Paper, 2023
+
+
 
   
    <!-- 4. <b>Meng Li</b>, Shichen Zhang, Algorithm aversion in distribution channels-->
