@@ -80,7 +80,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Dr. Meng Li"
+#   name             : "Dr. Meng Li"
+  name             : 
+    <p style="text-align:center">
+      Dr. Meng Li
+    </p>
   avatar           : "meng.png"
 #   bio              : 'Director of Bauer Human-Centered AI Lab'
   bio              : |
