@@ -83,8 +83,8 @@ author:
   name             : "Dr. Meng Li"
   avatar           : "meng.png"
   bio              : |
-  'Director of Bauer\nHuman-Centered AI Lab'
-  'Director of Bauer Human-Centered AI Lab'
+      'Director of Bauer\nHuman-Centered AI Lab'
+      'Director of Bauer Human-Centered AI Lab'
   location         : "Houston, TX 77204"
   employer         :
   pubmed           : 
