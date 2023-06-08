@@ -34,8 +34,11 @@ author_profile: true
 
 ### Judge/Chair for Competition
 
+* Judge, MSOM Student Paper Competition, 2023
+* Judge, POMS College of Service Operations Management Best Student Paper Competition, 2023
+* Judge, Jeff McGill Student Paper Award, 2022
 * Judge, INFORMS Poster Competition, 2021
-* Co-chair, INFORMS Service Science Best Student Paper Award, 2021
+* Co-chair, INFORMS Service Science Best Student Paper Award, 2021, 2022
 * Judge, POMS College of Supply Chain Management’s Best Student Paper Competition, 2021.
 * Judge, INFORMS TIMES Best Working Paper Competition, 2020. 
 * Judge, INFORMS Behavioral Operations Working Paper Competition, 2020, 2021
