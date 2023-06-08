@@ -32,7 +32,7 @@ author_profile: true
 * <i>Production and Operations Management</i>, 2017-2019
 
 
-### Judge/Chair for Competition
+### Judge for Competition
 
 * Judge, MSOM Student Paper Competition, 2023
 * Judge, POMS College of Service Operations Management Best Student Paper Competition, 2023
