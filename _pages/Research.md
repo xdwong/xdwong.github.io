@@ -8,7 +8,7 @@ author_profile: true
 
   1. Bora Keskin, <b>Meng Li</b>, Selling quality-differentiated products in a Markovian market with unknown transition probabilities, <i>Operations Research</i>, forthcoming.  
   
-  2.  <b>Meng Li</b>, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3747717), <i>Journal of Operations Management</i>, forthcoming.
+  2.  <b>Meng Li</b>, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1239), <i>Journal of Operations Management</i>, 2023, 69(4), 558-585.
  
   3.   <b>Meng Li</b>, [Demand uncertainty reduction among competing retailers](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13954), <i>Production and Operations Management</i>, 2023, 32(6), 1994-2001.
   
