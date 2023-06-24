@@ -68,7 +68,8 @@ author_profile: true
   2. <b>Meng Li</b>, Ricky Tan, Huazhong Zhao, Ting Hou,   Physician Adoption of AI Assistant, 
   <br> --- Winner of the POMS CSOM Best Student Paper, 2023<br>
   3. <b>Meng Li</b>, Shujing Sun, Wei Gu,   Tele-Follow-Up and Outpatient Care, 
-  <br> ---Best paper for the POMS College of Operational Excellence Best Paper Competition, 2022<br><br> ---Runners-up for the INFORMS TIMES Best Working Paper, 2022<br>
+  <br> ---Best paper for the POMS College of Operational Excellence Best Paper Competition, 2022
+       ---Runners-up for the INFORMS TIMES Best Working Paper, 2022<br>
 
 
 
