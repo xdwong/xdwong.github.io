@@ -67,6 +67,9 @@ author_profile: true
   1. Lijun Bo, <b>Meng Li</b>, Tingting Zhang, Evaluation Timing with Dynamic Information: Optimization and Heuristic, <i>Production and Operations Management</i> (Minor Revision). 
   2. <b>Meng Li</b>, Ricky Tan, Huazhong Zhao, Ting Hou,   Physician Adoption of AI Assistant, 
   <br> --- Winner of the POMS CSOM Best Student Paper, 2023<br>
+  3. <b>Meng Li</b>, Shujing Sun, Wei Gu,   Tele-Follow-Up and Outpatient Care, 
+  <br> ---Best paper for the POMS College of Operational Excellence Best Paper Competition, 2022<br><br> ---Runners-up for the INFORMS TIMES Best Working Paper, 2022<br>
+
 
 
 
