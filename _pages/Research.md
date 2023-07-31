@@ -6,21 +6,23 @@ author_profile: true
 
 ### Selected Business Publications
 
-  1. Bora Keskin, <b>Meng Li</b>, Selling quality-differentiated products in a Markovian market with unknown transition probabilities, <i>Operations Research</i>, forthcoming.  
-  
-  2.  <b>Meng Li</b>, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1239), <i>Journal of Operations Management</i>, 2023, 69(4), 558-585.
- 
-  3.   <b>Meng Li</b>, [Demand uncertainty reduction among competing retailers](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13954), <i>Production and Operations Management</i>, 2023, 32(6), 1994-2001.
-  
-  4.   Yang Gao, <b>Meng Li</b>, Shujing Sun, [Field experiments in operations management](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1240), <i>Journal of Operations Management</i>, 2023, 69(4), 676-701 (lead paper).
+  1.  Lijun Bo, <b>Meng Li</b>, Tingting Zhang, Evaluation Timing with Dynamic Information: Optimization and Heuristic, <i>Production and Operations Management</i>, forthcoming. 
 
-  5.  <b>Meng Li</b>, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
+  2.  Bora Keskin, <b>Meng Li</b>, Selling quality-differentiated products in a Markovian market with unknown transition probabilities, <i>Operations Research</i>, forthcoming.  
   
-  6. Baixun Li, <b>Meng Li</b>, Chao Liang, [Cry-wolf syndrome in recommendation](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13878), <i>Production and Operations Management</i>, 2023, 32(2), 347-358 (lead paper).
+  3.  <b>Meng Li</b>, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1239), <i>Journal of Operations Management</i>, 2023, 69(4), 558-585.
  
-  7. <b>Meng Li</b>, Yan Liu, [Managerial regret and inventory pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3726966), <i>Management Science</i>, 2022, 68 (6), 4398-4414.
+  4.   <b>Meng Li</b>, [Demand uncertainty reduction among competing retailers](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13954), <i>Production and Operations Management</i>, 2023, 32(6), 1994-2001.
   
-  8. Ruomeng Cui, <b>Meng Li</b>, Shichen Zhang, [AI and procurement](https://pubsonline.informs.org/doi/abs/10.1287/msom.2021.0989), <i>Manufacturing & Service Operations Management</i>, 2022, 24 (2), 691-706 (lead paper). 
+  5.   Yang Gao, <b>Meng Li</b>, Shujing Sun, [Field experiments in operations management](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1240), <i>Journal of Operations Management</i>, 2023, 69(4), 676-701 (lead paper).
+
+  6.  <b>Meng Li</b>, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
+  
+  7. Baixun Li, <b>Meng Li</b>, Chao Liang, [Cry-wolf syndrome in recommendation](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13878), <i>Production and Operations Management</i>, 2023, 32(2), 347-358 (lead paper).
+ 
+  8. <b>Meng Li</b>, Yan Liu, [Managerial regret and inventory pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3726966), <i>Management Science</i>, 2022, 68 (6), 4398-4414.
+  
+  9. Ruomeng Cui, <b>Meng Li</b>, Shichen Zhang, [AI and procurement](https://pubsonline.informs.org/doi/abs/10.1287/msom.2021.0989), <i>Manufacturing & Service Operations Management</i>, 2022, 24 (2), 691-706 (lead paper). 
 <!--   8. <a href="https://xdwong.github.io/files/AI and Procurement.pdf"><img src="https://img.shields.io/badge/Download-blue.svg" alt="Download"></a> -->
 
  9. <b>Meng Li</b>, Tao Li, [AI automation and retailer regret in supply chains](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13498), <i>Production and Operations Management</i>, 2022, 31 (1), 83-97.
@@ -64,10 +66,9 @@ author_profile: true
 
  
   
-  1. Lijun Bo, <b>Meng Li</b>, Tingting Zhang, Evaluation Timing with Dynamic Information: Optimization and Heuristic, <i>Production and Operations Management</i> (Minor Revision). 
-  2. <b>Meng Li</b>, Ricky Tan, Huazhong Zhao, Ting Hou,   Physician Adoption of AI Assistant, 
+  1. <b>Meng Li</b>, Ricky Tan, Huazhong Zhao, Ting Hou,   Physician Adoption of AI Assistant, 
   <br> --- Winner of the POMS CSOM Best Student Paper, 2023<br>
-  3. <b>Meng Li</b>, Shujing Sun, Wei Gu,   Tele-Follow-Up and Outpatient Care, 
+  2. <b>Meng Li</b>, Shujing Sun, Wei Gu,   Tele-Follow-Up and Outpatient Care, 
   <br> ---Best paper for the POMS College of Operational Excellence Best Paper Competition, 2022
        ---Runners-up for the INFORMS TIMES Best Working Paper, 2022<br>
 
