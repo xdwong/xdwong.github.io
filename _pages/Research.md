@@ -6,7 +6,7 @@ author_profile: true
 
 ### Selected Business Publications
 
-  1.  Lijun Bo, <b>Meng Li</b>, Tingting Zhang, Evaluation Timing with Dynamic Information: Optimization and Heuristic, <i>Production and Operations Management</i>, forthcoming. 
+  1.  Lijun Bo, <b>Meng Li</b>, Tingting Zhang, Evaluation timing with dynamic information: Optimization and heuristic, <i>Production and Operations Management</i>, forthcoming. 
 
   2.  Bora Keskin, <b>Meng Li</b>, Selling quality-differentiated products in a Markovian market with unknown transition probabilities, <i>Operations Research</i>, forthcoming.  
   
