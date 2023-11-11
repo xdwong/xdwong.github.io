@@ -22,10 +22,10 @@ author_profile: true
 
 ### Special Issue co-Editor
 
-* <i>Journal of Operatoins Management: Emerging Technologies in Healthcare</i>  
-* <i>Production and Operations Management: Responsible Data Science</i>  
-* <i>Decision Sciences Journal: AI-Driven Decision Sciences</i>
-* <i>Transportation Research Part E: Platforms for Logistics and Supply Chain Operations</i>  
+* <i>Journal of Operatoins Management</i>: Emerging Technologies in Healthcare  
+* <i>Production and Operations Management</i>: Responsible Data Science 
+* <i>Decision Sciences Journal</i>: AI-Driven Decision Sciences
+* <i>Transportation Research Part E</i>: Platforms for Logistics and Supply Chain Operations  
 
 ### Editorial Board
 
