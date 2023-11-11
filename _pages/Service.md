@@ -20,12 +20,12 @@ author_profile: true
 * <i>Journal of Modelling in Management</i>, 2014-2017
 
 
-### Editor
+### Special Issue co-Editor
 
 * <i>Journal of Operatoins Management: Emerging Technologies in Healthcare</i>  
-* <i>Production and Operations Management: Special Issue on Responsible Data Science</i>  
-* <i>Decision Sciences Journal: Special Issue on AI-Driven Decision Sciences</i>
-* <i>Transportation Research Part E: Special Issue on Platforms for Logistics and Supply Chain Operations</i>  
+* <i>Production and Operations Management: Responsible Data Science</i>  
+* <i>Decision Sciences Journal: AI-Driven Decision Sciences</i>
+* <i>Transportation Research Part E: Platforms for Logistics and Supply Chain Operations</i>  
 
 ### Editorial Board
 
