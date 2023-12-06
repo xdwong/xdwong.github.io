@@ -30,7 +30,7 @@ author_profile: true
 
 ### Editorial Board
 
-* <i>Journal of Operations Management</i>, 2021-present
+* <i>Journal of Operations Management</i>, 2021-2023
 * <i>Production and Operations Management</i>, 2017-2019
 
 
