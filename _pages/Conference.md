@@ -6,6 +6,7 @@ author_profile: true
 
 ### Invited seminars
 
+* AI in Operations Management, Instituto Tecnológico Autónomo de México, 2023
 * AI in Operations Management, University of Minnesota, 2023
 * Two Empirical Studies on Disruptive Innovation, University of Florida, 2023 
 * Managerial Behavior in Revenue Management, Texas A&M University, 2023
