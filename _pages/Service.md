@@ -7,7 +7,8 @@ author_profile: true
 
 ### Department Editor
 
-* <i> Decision Sciences Journal</i>, 2022- present
+* <i> Journal of Operations Management</i>, 2024- present
+* * <i> Decision Sciences Journal</i>, 2022- present
 
 ### Senior Editor
 
