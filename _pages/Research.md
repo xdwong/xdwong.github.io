@@ -10,7 +10,7 @@ author_profile: true
   
   2.  <b>Meng Li</b>, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
 
-  3.  Bora Keskin, <b>Meng Li</b>, Selling quality-differentiated products in a Markovian market with unknown transition probabilities, <i>Operations Research</i>, forthcoming.  
+  3.  Bora Keskin, <b>Meng Li</b>, [Selling quality-differentiated products in a Markovian market with unknown transition probabilities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526568), <i>Operations Research</i>, forthcoming.  
   
   4.  <b>Meng Li</b>, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1239), <i>Journal of Operations Management</i>, 2023, 69(4), 558-585.
  
@@ -18,7 +18,7 @@ author_profile: true
   
   6.   Yang Gao, <b>Meng Li</b>, Shujing Sun, [Field experiments in operations management](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1240), <i>Journal of Operations Management</i>, 2023, 69(4), 676-701.
 
-  7.  Lijun Bo, <b>Meng Li</b>, Tingting Zhang, Evaluation timing with dynamic information: Optimization and heuristic, <i>Production and Operations Management</i>, 2023, 32(12), 3931-3950. 
+  7.  Lijun Bo, <b>Meng Li</b>, Tingting Zhang, [Evaluation timing with dynamic information: Optimization and heuristic](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2820437), <i>Production and Operations Management</i>, 2023, 32(12), 3931-3950. 
   
   8. Baixun Li, <b>Meng Li</b>, Chao Liang, [Cry-wolf syndrome in recommendation](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13878), <i>Production and Operations Management</i>, 2023, 32(2), 347-358 (lead paper).
  
