@@ -8,7 +8,7 @@ author_profile: true
 
   1.  <b>Meng Li</b>, Shichen Zhang, Fast Delivery: B2B Field Experiments Amid COVID-19 Outbreak and New Normal, <i>Management Science</i>, Forthcoming.
   
-  2.  Lijun Bo, <b>Meng Li</b>, Tingting Zhang, Evaluation timing with dynamic information: Optimization and heuristic, <i>Production and Operations Management</i>, 2023, 32(12), 3931-3950. 
+  2.  <b>Meng Li</b>, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
 
   3.  Bora Keskin, <b>Meng Li</b>, Selling quality-differentiated products in a Markovian market with unknown transition probabilities, <i>Operations Research</i>, forthcoming.  
   
@@ -18,7 +18,7 @@ author_profile: true
   
   6.   Yang Gao, <b>Meng Li</b>, Shujing Sun, [Field experiments in operations management](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1240), <i>Journal of Operations Management</i>, 2023, 69(4), 676-701.
 
-  7.  <b>Meng Li</b>, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
+  7.  Lijun Bo, <b>Meng Li</b>, Tingting Zhang, Evaluation timing with dynamic information: Optimization and heuristic, <i>Production and Operations Management</i>, 2023, 32(12), 3931-3950. 
   
   8. Baixun Li, <b>Meng Li</b>, Chao Liang, [Cry-wolf syndrome in recommendation](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13878), <i>Production and Operations Management</i>, 2023, 32(2), 347-358 (lead paper).
  
