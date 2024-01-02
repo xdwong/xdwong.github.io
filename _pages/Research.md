@@ -6,7 +6,7 @@ author_profile: true
 
 ### Selected Business Publications
 
-  1.  <b>Meng Li</b>, Shichen Zhang, Fast Delivery: B2B Field Experiments Amid COVID-19 Outbreak and New Normal, <i>Management Science</i>, Forthcoming.
+  1.  <b>Meng Li</b>, Shichen Zhang, Fast Delivery: B2B field experiments Amid COVID-19 outbreak and new normal, <i>Management Science</i>, Forthcoming.
   
   2.  <b>Meng Li</b>, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
 
