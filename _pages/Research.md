@@ -63,7 +63,7 @@ author_profile: true
 ### Other Publications
 
    1. Zhi Cao, Jingbo Zhou, <b>Meng Li</b>, Jizhou Huang, Dejing Dou, Urbanites’ mental health undermined by air pollution, <i>Nature Sustainability</i>, 2023, (6), 470–478.
-   2. Fišar, M., Greiner, B., Huber, C., Katok, E., Ozkes, A., and the Management Science Reproducibility Collaboration (forthcoming). Reproducibility in Management Science. Management Science. ---Note: Member of the Management Science Reproducibility Collaboration
+   2. Fišar, M., Greiner, B., Huber, C., Katok, E., Ozkes, A., and the Management Science Reproducibility Collaboration (forthcoming). Reproducibility in Management Science. <i>Management Science</i>. ---Note: Member of the Management Science Reproducibility Collaboration
 
 ### Selected Working Paper
 
