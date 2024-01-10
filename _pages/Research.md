@@ -9,22 +9,23 @@ author_profile: true
   1.  <b>Meng Li</b>, Shichen Zhang, Fast delivery: B2B field experiments amid COVID-19 outbreak and new normal, <i>Management Science</i>, Forthcoming.
   
   2.  <b>Meng Li</b>, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
+  3.  <b>Meng Li</b>, Tao Li, Lili Yu, Retail Platform Analytics: Practice, Literature, and Future Research, <i>Production and Operations Management</i>, forthcoming.
 
-  3.  Bora Keskin, <b>Meng Li</b>, [Selling quality-differentiated products in a Markovian market with unknown transition probabilities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526568), <i>Operations Research</i>, forthcoming.  
+  4.  Bora Keskin, <b>Meng Li</b>, [Selling quality-differentiated products in a Markovian market with unknown transition probabilities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526568), <i>Operations Research</i>, forthcoming.  
   
-  4.  <b>Meng Li</b>, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1239), <i>Journal of Operations Management</i>, 2023, 69(4), 558-585.
+  5.  <b>Meng Li</b>, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1239), <i>Journal of Operations Management</i>, 2023, 69(4), 558-585.
  
-  5.   <b>Meng Li</b>, [Demand uncertainty reduction among competing retailers](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13954), <i>Production and Operations Management</i>, 2023, 32(6), 1994-2001.
+  6.   <b>Meng Li</b>, [Demand uncertainty reduction among competing retailers](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13954), <i>Production and Operations Management</i>, 2023, 32(6), 1994-2001.
   
-  6.   Yang Gao, <b>Meng Li</b>, Shujing Sun, [Field experiments in operations management](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1240), <i>Journal of Operations Management</i>, 2023, 69(4), 676-701.
+  7.   Yang Gao, <b>Meng Li</b>, Shujing Sun, [Field experiments in operations management](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1240), <i>Journal of Operations Management</i>, 2023, 69(4), 676-701.
 
-  7.  Lijun Bo, <b>Meng Li</b>, Tingting Zhang, [Evaluation timing with dynamic information: Optimization and heuristic](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2820437), <i>Production and Operations Management</i>, 2023, 32(12), 3931-3950. 
+  8.  Lijun Bo, <b>Meng Li</b>, Tingting Zhang, [Evaluation timing with dynamic information: Optimization and heuristic](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2820437), <i>Production and Operations Management</i>, 2023, 32(12), 3931-3950. 
   
-  8. Baixun Li, <b>Meng Li</b>, Chao Liang, [Cry-wolf syndrome in recommendation](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13878), <i>Production and Operations Management</i>, 2023, 32(2), 347-358 (lead paper).
+  9. Baixun Li, <b>Meng Li</b>, Chao Liang, [Cry-wolf syndrome in recommendation](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13878), <i>Production and Operations Management</i>, 2023, 32(2), 347-358 (lead paper).
  
-  9. <b>Meng Li</b>, Yan Liu, [Managerial regret and inventory pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3726966), <i>Management Science</i>, 2022, 68 (6), 4398-4414.
+  10. <b>Meng Li</b>, Yan Liu, [Managerial regret and inventory pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3726966), <i>Management Science</i>, 2022, 68 (6), 4398-4414.
   
-  10. <b>Meng Li</b>, Tao Li, [AI automation and retailer regret in supply chains](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13498), <i>Production and Operations Management</i>, 2022, 31 (1), 83-97.
+  11. <b>Meng Li</b>, Tao Li, [AI automation and retailer regret in supply chains](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13498), <i>Production and Operations Management</i>, 2022, 31 (1), 83-97.
 <!--   8. <a href="https://xdwong.github.io/files/AI and Procurement.pdf"><img src="https://img.shields.io/badge/Download-blue.svg" alt="Download"></a> -->
 
  9. Ruomeng Cui, <b>Meng Li</b>, Shichen Zhang, [AI and procurement](https://pubsonline.informs.org/doi/abs/10.1287/msom.2021.0989), <i>Manufacturing & Service Operations Management</i>, 2022, 24 (2), 691-706 (lead paper). 
