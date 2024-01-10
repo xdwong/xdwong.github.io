@@ -9,7 +9,7 @@ author_profile: true
   1.  <b>Meng Li</b>, Shichen Zhang, Fast delivery: B2B field experiments amid COVID-19 outbreak and new normal, <i>Management Science</i>, Forthcoming.
   
   2.  <b>Meng Li</b>, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
-  3.  <b>Meng Li</b>, Tao Li, Lili Yu, Retail Platform Analytics: Practice, Literature, and Future Research, <i>Production and Operations Management</i>, forthcoming.
+  3.  <b>Meng Li</b>, Tao Li, Lili Yu, Retail platform analytics: Practice, literature, and future research, <i>Production and Operations Management</i>, forthcoming.
 
   4.  Bora Keskin, <b>Meng Li</b>, [Selling quality-differentiated products in a Markovian market with unknown transition probabilities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526568), <i>Operations Research</i>, forthcoming.  
   
