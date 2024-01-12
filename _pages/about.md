@@ -19,7 +19,7 @@ Education
 Academic Honors and Awards
 ----- 
 
-* UH Energy Transition Institute Award ($62.5K), University of Houston, 2024
+* Energy Transition Institute Award ($62.5K), University of Houston, 2024
 * Global Business Management Award, IEOM Conference, 2023
 * Lucile and Leroy Melcher Excellence in Research Award, 2023 
 * Shell Sustainbility Research Grant ($100K), 2022
