@@ -10,7 +10,7 @@ author_profile: true
 <!--* Yanan Zhang, PhD student at Shanghai Jiaotong University, 2022-present -->
 <!--* Xudong Wang, PhD student at Tianjin University, 2022-present   -->
 * Ting Hou, PhD student at University of Science and Technology of China, 2021-23
-  - Placement: Assistant Professor, Shanghai University of Finance and Economics, Shanghai, China
+  - Placement: Assistant Professor, Shanghai University of Finance and Economics,  China
 * Zhi Cao, PhD student at University of Electronic Science and Technology of China, 2021-23  
   - Placement: Assistant Professor, Sichuan University, Chengdu, China
 * Shichen Zhang, PhD student at Tianjin University, 2019-20
@@ -24,7 +24,7 @@ author_profile: true
   - Third-Prize Award, Best Student Paper, POM International Conference China, 2019
   - Placement: Assistant Professor, University of Science and Technology of China, China 
 * Tingting Zhang, PhD student at University of Science and Technology, 2018
-  - Placement: Assistant Professor, Suzhou University, China 
+  - Placement: Assistant Professor, Soochow University, China 
 * Yue Li, PhD student at Tsinghua University, 2019 
   - Placement: Assistant Professor, Beijing Jiaotong University, China
 * Baixun Li, Associate professor at Guangdong University of Finance and Economics, 2017-18
