@@ -9,7 +9,8 @@ author_profile: true
 
 <!--* Yanan Zhang, PhD student at Shanghai Jiaotong University, 2022-present -->
 <!--* Xudong Wang, PhD student at Tianjin University, 2022-present   -->
-<!--* Ting Hou, PhD student at University of Science and Technology of China, 2021-present --> 
+* Ting Hou, PhD student at University of Science and Technology of China, 2021-23
+  - Placement: Assistant Professor, Shanghai University of Finance and Economics, Shanghai, China
 * Zhi Cao, PhD student at University of Electronic Science and Technology of China, 2021-23  
   - Placement: Assistant Professor, Sichuan University, Chengdu, China
 * Shichen Zhang, PhD student at Tianjin University, 2019-20
