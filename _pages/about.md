@@ -32,6 +32,4 @@ Academic Honors and Awards
 * Finalist of 2019 Informs Best Service Science Paper Award, 2019
 
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=s2HpyDhoS_05iDvvXPe4dy2SenifR4IZZtTDShDWruU&cl=ffffff&w=a"></script>
-
 <a href="https://clustrmaps.com/site/1byel"  title="Visit tracker"><img src="//www.clustrmaps.com/map_v2.png?d=s2HpyDhoS_05iDvvXPe4dy2SenifR4IZZtTDShDWruU&cl=ffffff" /></a>
