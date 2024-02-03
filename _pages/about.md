@@ -23,6 +23,7 @@ Academic Honors and Awards
 * Global Business Management Award, IEOM Conference, 2023
 * Lucile and Leroy Melcher Excellence in Research Award, 2023 
 * Shell Sustainbility Research Grant ($100K), 2022
+* Management Science Distinguished Service Award, 2022
 * Runners-up for the INFORMS TIMES Best Working Paper, 2022
 * Best paper for the POMS College of Operational Excellence Best Paper Competition, 2022
 * Finalist for the 2021 MSOM Service Management SIG award, 2021
