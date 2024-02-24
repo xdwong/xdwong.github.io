@@ -6,6 +6,9 @@ author_profile: true
 
 ### Invited seminars
 
+* AI in Operations Management, University of Kent, 2024
+* AI in Operations Management, University of Liverpool, 2024
+* Physician Adoption of AI Assistant, University of Texas at Dallas, 2024
 * AI in Operations Management, Instituto Tecnológico Autónomo de México, 2023
 * AI in Operations Management, University of Minnesota, 2023
 * Two Empirical Studies on Disruptive Innovation, University of Florida, 2023 
