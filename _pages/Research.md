@@ -75,7 +75,7 @@ author_profile: true
   2.  <b>Meng Li</b>, Shujing Sun, Wei Gu,   Tele-Follow-Up and Outpatient Care, 
   <br> ---Best paper for the POMS College of Operational Excellence Best Paper Competition, 2022
        ---Runners-up for the INFORMS TIMES Best Working Paper, 2022<br>
-
+  3.  <b>Meng Li</b>, Shicheng Zhang, Wei Gu,   Reducing Patient Tardiness: From Randomized Control Trial to Implementation 
 
 
 
