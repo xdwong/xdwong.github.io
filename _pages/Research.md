@@ -7,7 +7,6 @@ author_profile: true
 ### Selected Business Publications
 
   1. Ting Hou, <b>Meng Li</b>, Ricky Tan, Huazhong Zhao,    [Physician adoption of AI assistant](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4432784), <i>Manufacturing & Service Operations Management</i>, forthcoming. 
-  <br> --- Winner of the POMS CSOM Best Student Paper, 2023<br>
   2.  <b>Meng Li</b>, Shichen Zhang, Fast delivery: B2B field experiments amid COVID-19 outbreak and new normal, <i>Management Science</i>, Forthcoming.
   
   3.  <b>Meng Li</b>, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
