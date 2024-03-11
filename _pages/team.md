@@ -19,7 +19,6 @@ author_profile: true
 * Qiang Li, PhD student at Rutgers University, Co-major Supervisor, 2018-21   
   - Placement: Assistant Professor, Lazaridis School of Business and Economics, Wilfrid Laurier University, Canada
 * Lili Yu, PhD student at University of Science and Technology of China, 2018-19 
-  - Third-Prize Award, Best Student Paper, POM International Conference China, 2019
   - Placement: Assistant Professor, University of Science and Technology of China, China 
 * Tingting Zhang, PhD student at University of Science and Technology, 2018
   - Placement: Assistant Professor, Soochow University, China 
