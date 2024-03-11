@@ -10,6 +10,7 @@ author_profile: true
 <!--* Yanan Zhang, PhD student at Shanghai Jiaotong University, 2022-present -->
 <!--* Xudong Wang, PhD student at Tianjin University, 2022-present   -->
 * Ting Hou, PhD student at University of Science and Technology of China, 2021-23
+  - Winner of the POMS CSOM Best Student Paper, 2023
   - Placement: Assistant Professor, Shanghai University of Finance and Economics,  China
 * Zhi Cao, PhD student at University of Electronic Science and Technology of China, 2021-23  
   - Placement: Assistant Professor, Sichuan University, Chengdu, China
