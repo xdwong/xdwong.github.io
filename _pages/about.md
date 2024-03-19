@@ -19,6 +19,7 @@ Education
 Academic Honors and Awards
 ----- 
 
+* Finalist for POMS Best Healthcare Paper Competition, 2024
 * Energy Transition Institute Award ($62.5K), University of Houston, 2024
 * Global Business Management Award, IEOM Conference, 2023
 * Lucile and Leroy Melcher Excellence in Research Award, 2023 
