@@ -7,7 +7,7 @@ author_profile: true
 ### Selected Business Publications
 
   1. Ting Hou, <b>Meng Li</b>, Ricky Tan, Huazhong Zhao,    [Physician adoption of AI assistant](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4432784), <i>Manufacturing & Service Operations Management</i>, forthcoming. 
-  2.  <b>Meng Li</b>, Shichen Zhang, Fast delivery: B2B field experiments amid COVID-19 outbreak and new normal, <i>Management Science</i>, Forthcoming.
+  2.  <b>Meng Li</b>, Shichen Zhang, [Fast delivery: B2B field experiments amid COVID-19 outbreak and new normal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3815400), <i>Management Science</i>, Forthcoming.
   
   3.  <b>Meng Li</b>, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
   4.  <b>Meng Li</b>, Tao Li, Lili Yu, Retail platform analytics: Practice, literature, and future research, <i>Production and Operations Management</i>, forthcoming.
