@@ -12,7 +12,7 @@ author_profile: true
   3.  <b>Meng Li</b>, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
   4.  <b>Meng Li</b>, Tao Li, Lili Yu, [Retail platform analytics: Practice, literature, and future research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3395606), <i>Production and Operations Management</i>, forthcoming.
 
-  5.  Bora Keskin, <b>Meng Li</b>, [Selling quality-differentiated products in a Markovian market with unknown transition probabilities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526568), <i>Operations Research</i>, 2024，72（3）885–902.  
+  5.  Bora Keskin, <b>Meng Li</b>, [Selling quality-differentiated products in a Markovian market with unknown transition probabilities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526568), <i>Operations Research</i>, 2024, 72(3), 885–902.  
   
   6.  <b>Meng Li</b>, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1239), <i>Journal of Operations Management</i>, 2023, 69(4), 558-585.
  
