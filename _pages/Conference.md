@@ -6,6 +6,9 @@ author_profile: true
 
 ### Invited seminars
 
+* AI in Operations Management, University of Surrey and UK Parliament, 2024 
+* The Value of AI: Two Field Experiments on Medical Platform, Texas Tech, 2024
+* Reducing Patient Tardiness: From Experiment to Implementation, University of Chile, 2024
 * AI in Operations Management, University of Kent, 2024
 * AI in Operations Management, University of Liverpool, 2024
 * Physician Adoption of AI Assistant, University of Texas at Dallas, 2024
@@ -36,7 +39,8 @@ author_profile: true
 
 ### Conference presentations
 
-* Tutorial: AI in Operatoins Management, POM Conference, Orlando, 2023
+* Palnery Talk: Reducing Patient Tardiness: From Experiment to Implementation, POM Istanbul, 2024
+* Tutorial: AI in Operatoins Management, POM Annual Conference, 2023-24
 * AI-driven decision sciences, DSJ Mini-Conference, 2023
 * Last-mile commute and food service, INFORMS, Seattle, 2019 
 * Overconfident distribution channels, INFORMS, Phoenix, 2018 
