@@ -40,7 +40,7 @@ author_profile: true
 ### Conference presentations
 
 * Palnery Talk: Reducing Patient Tardiness: From Experiment to Implementation, POM Istanbul, 2024
-* Tutorial: AI in Operatoins Management, POM Annual Conference, 2023-24
+* Tutorial: AI in Operatoins Management, POM Annual Conference, 2023, 2024
 * AI-driven decision sciences, DSJ Mini-Conference, 2023
 * Last-mile commute and food service, INFORMS, Seattle, 2019 
 * Overconfident distribution channels, INFORMS, Phoenix, 2018 
