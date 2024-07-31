@@ -6,7 +6,7 @@ author_profile: true
 
 ### Invited seminars
 
-* AI in Operations Management, University of Surrey and UK Parliament, 2024 
+* AI in Business Research, University of Surrey and UK Parliament, 2024 
 * The Value of AI: Two Field Experiments on Medical Platform, Texas Tech, 2024
 * Reducing Patient Tardiness: From Experiment to Implementation, University of Chile, 2024
 * AI in Operations Management, University of Kent, 2024
