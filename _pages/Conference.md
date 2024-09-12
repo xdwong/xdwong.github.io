@@ -6,6 +6,7 @@ author_profile: true
 
 ### Invited seminars
 
+* The Value of AI: Two Field Experiments on Medical Platform, Texas State Universtiy, 2024
 * Reducing Patient Tardiness: From Experiment to Implementation, Coventry University, 2024
 * AI in Business Research, University of Surrey and UK Parliament, 2024 
 * The Value of AI: Two Field Experiments on Medical Platform, Texas Tech, 2024
