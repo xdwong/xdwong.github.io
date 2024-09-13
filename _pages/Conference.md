@@ -54,8 +54,7 @@ author_profile: true
 * Dynamic pricing to explore markets with customer- and time-heterogeneity, INFORMS, Houston, 2018 
 * Returns policies in distribution channels, POMS, Seattle, 2017 
 * Manufacturer competition and product returns, POMS, Seattle, 2017 
-* Dynamic selling mechanisms for exploring markets with customer- and time-heterogeneity, 
-* INFORMS, Nashville, 2016 
+* Dynamic selling mechanisms for exploring markets with customer- and time-heterogeneity, INFORMS, Nashville, 2016 
 * Returns policies for overstock and consumer returns in distribution channels, INFORMS, Nashville, 2016 
 * Dynamic pricing to explore markets with customer- and time-heterogeneity, POMS, Orlando, 2016 
 * Returns policies for overstock and consumer returns in distribution channels, POMS, Orlando, 2016 
