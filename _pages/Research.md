@@ -7,7 +7,7 @@ author_profile: true
 ### Selected Business Publications
 
   1. Wei Gu, <b>Meng Li</b>, Shichen Zhang, [Algorithmic supervisor and employee performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3968005), <i>Production and Operations Management</i>, conditional accept.
-  2. Zhi Cao, <b>Meng Li</b>, Paul A. Pavlou, [AI in Business Research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4897619), <i>Decision Sciences Journal</i>, forthcoming. 
+  2. Zhi Cao, <b>Meng Li</b>, Paul A. Pavlou, [AI in business research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4897619), <i>Decision Sciences Journal</i>, forthcoming. 
   3. <b>Meng Li</b>, Shichen Zhang, [Fast delivery: B2B field experiments amid COVID-19 outbreak and new normal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3815400), <i>Management Science</i>, forthcoming. 
   4. Yuxin Chen, <b>Meng Li</b>, Chao Liang, [E-tailer’s inventory location and pricing with strategic consumers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3455905), <i>Production and Operations Management</i>, forthcoming.
   5.  <b>Meng Li</b>, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
