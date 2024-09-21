@@ -19,6 +19,7 @@ Education
 Academic Honors and Awards
 ----- 
 
+* John Aure Buesseler Distinguished Lectureship, Texas Tech, 2024
 * Honorable Mention for POMS Best Healthcare Paper Competition, 2024
 * Energy Transition Institute Award ($62.5K), University of Houston, 2024
 * Global Business Management Award, IEOM Conference, 2023
