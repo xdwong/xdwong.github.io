@@ -6,8 +6,8 @@ author_profile: true
 
 ### Invited seminars
 
-* University of California, Davis, 2025
-* University of Oklahoma (distinguished speakers' series), 2024
+* University of California, Davis (scheduled)
+* University of Oklahoma (distinguished speakers' series, scheduled)
 * The Value of AI: Two Field Experiments on Medical Platform, Texas State Universtiy, 2024
 * Reducing Patient Tardiness: From Experiment to Implementation, Coventry University, 2024
 * AI in Business Research, University of Surrey and UK Parliament, 2024 
