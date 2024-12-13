@@ -68,4 +68,5 @@ author_profile: true
 
 ### Book chapters
 
-  1. Alain Bensoussan, Metin Çakanyildirim, <b>Meng Li</b>, Suresh P. Sethi, [Existence and uniqueness of solutions for a partially observed stochastic control problem](https://www.worldscientific.com/doi/pdf/10.1142/9789814383318_0017), <i>Stochastic Processes, Finance and Control: A Festschrift in Honor of Robert J. Elliott, S. Cohen, D. Madan, T. K. Siu, and H. Yang (eds.)</i>, World Scientific, 2012, 393–413. 
+  1. Alain Bensoussan, Metin Çakanyildirim, <b>Meng Li</b>, Suresh P. Sethi, [Existence and uniqueness of solutions for a partially observed stochastic control problem](https://www.worldscientific.com/doi/pdf/10.1142/9789814383318_0017), <i>Stochastic Processes, Finance and Control: A Festschrift in Honor of Robert J. Elliott, S. Cohen, D. Madan, T. K. Siu, and H. Yang (eds.)</i>, World Scientific, 2012, 393–413.
+  2. <b>Meng Li</b>, Qiang Li, Yao Yao, Al in Operations Management: Literature Review and Future Research
