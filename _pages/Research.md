@@ -49,7 +49,7 @@ author_profile: true
 
  
    
-  1.  <b>Meng Li</b>, Shujing Sun, Wei Gu,   Tele-Follow-Up and Outpatient Care, 
+  1.  Tele-Follow-Up and Outpatient Care (with Wei Gu and Shujing Sun), 
   <br> ---Best paper for the POMS College of Operational Excellence Best Paper Competition, 2022
        ---Runners-up for the INFORMS TIMES Best Working Paper, 2022<br> 
 
