@@ -6,12 +6,12 @@ author_profile: true
 
 ### Selected Business Publications
 
-  1. Wei Gu, Meng Li, Shichen Zhang, Algorithmic supervisor and employee performance, <i>Production and Operations Management</i>, conditional accept.
+  1. Wei Gu, Meng Li, Shichen Zhang, Algorithmic supervisor and employee performance, <i>Production and Operations Management</i>, forthcoming.
   2. Zhi Cao, Meng Li, Paul A. Pavlou, [AI in business research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4897619), <i>Decision Sciences Journal</i>, forthcoming. 
   3. Meng Li, Shichen Zhang, [Fast delivery: B2B field experiments amid COVID-19 outbreak and new normal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3815400), <i>Management Science</i>, forthcoming. 
-  4. Yuxin Chen, Meng Li, Chao Liang, [E-tailer’s inventory location and pricing with strategic consumers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3455905), <i>Production and Operations Management</i>, forthcoming.
-  5.  Meng Li, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
-  6.  Meng Li, Tao Li, Lili Yu, [Retail platform analytics: Practice, literature, and future research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3395606), <i>Production and Operations Management</i>, forthcoming.
+  4.  Meng Li, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
+  5.  Meng Li, Tao Li, Lili Yu, [Retail platform analytics: Practice, literature, and future research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3395606), <i>Production and Operations Management</i>, forthcoming.
+  6.  Yuxin Chen, Meng Li, Chao Liang, [E-tailer’s inventory location and pricing with strategic consumers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3455905), <i>Production and Operations Management</i>, 2025, 34(1),30-44.
   7. Ting Hou, Meng Li, Ricky Tan, Huazhong Zhao,    [Physician adoption of AI assistant](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4432784), <i>Manufacturing & Service Operations Management</i>, 2024, 26(5), 1639–1655. 
   8.  Bora Keskin, Meng Li, [Selling quality-differentiated products in a Markovian market with unknown transition probabilities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526568), <i>Operations Research</i>, 2024, 72(3), 885–902.  
   9.  Meng Li, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1239), <i>Journal of Operations Management</i>, 2023, 69(4), 558-585.
