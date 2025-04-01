@@ -20,6 +20,7 @@ Education
 Academic Honors and Awards
 ----- 
 
+* The President's Circle Awards， University of Houston, 2025
 * John Aure Buesseler Distinguished Lectureship
   (Whitehead Award for Excellence as Effective Scholarly Practitioner in Arts and Sciences of Health Organization), Texas Tech, 2024
 * Honorable Mention for POMS Best Healthcare Paper Competition, 2024
