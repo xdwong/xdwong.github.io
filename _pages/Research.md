@@ -6,22 +6,23 @@ author_profile: true
 
 ### Selected Business Publications
 
-  1. Meng Li, Yan Liu, Mental accounting in allocating capacity, <i>Manufacturing & Service Operations Management</i>, forthcoming. 
-  2. Wei Gu, Meng Li, Shichen Zhang, [Algorithmic supervisor and employee performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5138545), <i>Production and Operations Management</i>, forthcoming.
-  3. Zhi Cao, Meng Li, Paul A. Pavlou, [AI in business research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4897619), <i>Decision Sciences Journal</i>, forthcoming. 
-  4. Meng Li, Shichen Zhang, [Fast delivery: B2B field experiments amid COVID-19 outbreak and new normal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3815400), <i>Management Science</i>, forthcoming. 
-  5.  Meng Li, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
-  6.  Meng Li, Tao Li, Lili Yu, [Retail platform analytics: Practice, literature, and future research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3395606), <i>Production and Operations Management</i>, forthcoming.
-  7.  Yuxin Chen, Meng Li, Chao Liang, [E-tailer’s inventory location and pricing with strategic consumers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3455905), <i>Production and Operations Management</i>, 2025, 34(1),30-44.
-  8. Ting Hou, Meng Li, Ricky Tan, Huazhong Zhao,    [Physician adoption of AI assistant](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4432784), <i>Manufacturing & Service Operations Management</i>, 2024, 26(5), 1639–1655. 
-  9.  Bora Keskin, Meng Li, [Selling quality-differentiated products in a Markovian market with unknown transition probabilities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526568), <i>Operations Research</i>, 2024, 72(3), 885–902.  
-  10.  Meng Li, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1239), <i>Journal of Operations Management</i>, 2023, 69(4), 558-585.
-  11.   Meng Li, [Demand uncertainty reduction among competing retailers](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13954), <i>Production and Operations Management</i>, 2023, 32(6), 1994-2001.
-  12.   Yang Gao, Meng Li, Shujing Sun, [Field experiments in operations management](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1240), <i>Journal of Operations Management</i>, 2023, 69(4), 676-701.
- 13.  Lijun Bo, Meng Li, Tingting Zhang, [Evaluation timing with dynamic information: Optimization and heuristic](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2820437), <i>Production and Operations Management</i>, 2023, 32(12), 3931-3950. 
- 14. Baixun Li, Meng Li, Chao Liang, [Cry-wolf syndrome in recommendation](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13878), <i>Production and Operations Management</i>, 2023, 32(2), 347-358 (lead paper).
- 15. Meng Li, Yan Liu, [Managerial regret and inventory pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3726966), <i>Management Science</i>, 2022, 68 (6), 4398-4414.
- 16. Meng Li, Tao Li, [AI automation and retailer regret in supply chains](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13498), <i>Production and Operations Management</i>, 2022, 31 (1), 83-97.
+  1. Meng Li, Yan Liu, Mental accounting in allocating capacity, <i>Manufacturing & Service Operations Management</i>, forthcoming.
+  2. Haijian Si, Meng Li, Christoph H. Loch, Working with Practitioners in Operations Management, <i>Manufacturing & Service Operations Management</i>, forthcoming.
+  3. Wei Gu, Meng Li, Shichen Zhang, [Algorithmic supervisor and employee performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5138545), <i>Production and Operations Management</i>, forthcoming.
+  4. Zhi Cao, Meng Li, Paul A. Pavlou, [AI in business research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4897619), <i>Decision Sciences Journal</i>, forthcoming. 
+  5. Meng Li, Shichen Zhang, [Fast delivery: B2B field experiments amid COVID-19 outbreak and new normal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3815400), <i>Management Science</i>, forthcoming. 
+  6.  Meng Li, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
+  7.  Meng Li, Tao Li, Lili Yu, [Retail platform analytics: Practice, literature, and future research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3395606), <i>Production and Operations Management</i>, forthcoming.
+  8.  Yuxin Chen, Meng Li, Chao Liang, [E-tailer’s inventory location and pricing with strategic consumers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3455905), <i>Production and Operations Management</i>, 2025, 34(1),30-44.
+  9. Ting Hou, Meng Li, Ricky Tan, Huazhong Zhao,    [Physician adoption of AI assistant](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4432784), <i>Manufacturing & Service Operations Management</i>, 2024, 26(5), 1639–1655. 
+  10.  Bora Keskin, Meng Li, [Selling quality-differentiated products in a Markovian market with unknown transition probabilities](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3526568), <i>Operations Research</i>, 2024, 72(3), 885–902.  
+  11.  Meng Li, Yue Li, Yang Zhang, [Supplier bottleneck and information dissemination](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1239), <i>Journal of Operations Management</i>, 2023, 69(4), 558-585.
+  12.   Meng Li, [Demand uncertainty reduction among competing retailers](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13954), <i>Production and Operations Management</i>, 2023, 32(6), 1994-2001.
+  13.   Yang Gao, Meng Li, Shujing Sun, [Field experiments in operations management](https://onlinelibrary.wiley.com/doi/abs/10.1002/joom.1240), <i>Journal of Operations Management</i>, 2023, 69(4), 676-701.
+ 14.  Lijun Bo, Meng Li, Tingting Zhang, [Evaluation timing with dynamic information: Optimization and heuristic](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2820437), <i>Production and Operations Management</i>, 2023, 32(12), 3931-3950. 
+ 15. Baixun Li, Meng Li, Chao Liang, [Cry-wolf syndrome in recommendation](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13878), <i>Production and Operations Management</i>, 2023, 32(2), 347-358 (lead paper).
+ 16. Meng Li, Yan Liu, [Managerial regret and inventory pricing](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3726966), <i>Management Science</i>, 2022, 68 (6), 4398-4414.
+ 17. Meng Li, Tao Li, [AI automation and retailer regret in supply chains](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13498), <i>Production and Operations Management</i>, 2022, 31 (1), 83-97.
 <!--   8. <a href="https://xdwong.github.io/files/AI and Procurement.pdf"><img src="https://img.shields.io/badge/Download-blue.svg" alt="Download"></a> -->
  15. Ruomeng Cui, Meng Li, Shichen Zhang, [AI and procurement](https://pubsonline.informs.org/doi/abs/10.1287/msom.2021.0989), <i>Manufacturing & Service Operations Management</i>, 2022, 24 (2), 691-706 (lead paper). 
  16. Meng Li, Yunchuan Liu, [Beneficial product returns in supply chains](https://onlinelibrary.wiley.com/doi/pdf/10.1111/poms.13519), <i>Production and Operations Management</i>, 2021, 30 (11), 3849–3855 (lead paper).
