@@ -9,7 +9,7 @@ author_profile: true
   1. Meng Li, Yan Liu, Mental accounting in allocating capacity, <i>Manufacturing & Service Operations Management<i>, forthcoming.
   2. Alain Bensoussan, Metin Çakanyıldırım, Meng Li, Suresh Sethi, Inventory model with incomplete information: sales and zero-balance signals, <i>Central European Journal of Operations Research<i> (honour George Leitmann for his 100th birthday), forthcoming.
   3. Wei Gu, Meng Li, Shichen Zhang, [Algorithmic supervisor and employee performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5138545), <i>Production and Operations Management</i>, forthcoming.
-  4. Haijian Si, Meng Li, Christoph H. Loch, [OM Forum-Working with Practitioners in Operations Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5140385),  <i>Manufacturing & Service Operations Management<i>, forthcoming.
+  4. Haijian Si, Meng Li, Christoph H. Loch, [OM Forum-Working with practitioners in Operations Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5140385),  <i>Manufacturing & Service Operations Management<i>, forthcoming.
   5. Zhi Cao, Meng Li, Paul A. Pavlou, [AI in business research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4897619), <i>Decision Sciences Journal</i>, forthcoming. 
   6. Meng Li, Shichen Zhang, [Fast delivery: B2B field experiments amid COVID-19 outbreak and new normal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3815400), <i>Management Science</i>, forthcoming. 
   7.  Meng Li, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
