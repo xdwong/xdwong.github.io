@@ -23,6 +23,7 @@ author_profile: true
 
 ### Special Issue co-Editor
 
+* <i>Information Systems Research </i>: Compassionate AI
 * <i>IEEE Transactions on Engineering Management</i>: Operational Innovation in Interdisciplinary Research
 * <i>Journal of Operatoins Management</i>: Emerging Technologies in Healthcare  
 * <i>Production and Operations Management</i>: Responsible Data Science 
