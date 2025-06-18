@@ -24,6 +24,7 @@ author_profile: true
 ### Special Issue co-Editor
 
 * <i>Information Systems Research </i>: Compassionate AI
+* <i>Journal of Supply Chain Management </i>: Artificial Intelligence and Supply Chain Management: Theoretical Innovations and Interdisciplinary Approaches
 * <i>IEEE Transactions on Engineering Management</i>: Operational Innovation in Interdisciplinary Research
 * <i>Journal of Operatoins Management</i>: Emerging Technologies in Healthcare  
 * <i>Production and Operations Management</i>: Responsible Data Science 
