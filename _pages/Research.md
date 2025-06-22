@@ -12,7 +12,7 @@ author_profile: true
   4. Haijian Si, Meng Li, Christoph H. Loch, [OM Forum-Working with practitioners in Operations Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5140385),  <i>Manufacturing & Service Operations Management<i>, forthcoming.
   5.  Meng Li, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
   6.  Meng Li, Tao Li, Lili Yu, [Retail platform analytics: Practice, literature, and future research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3395606), <i>Production and Operations Management</i>, forthcoming.
-  7.  Meng Li, Shichen Zhang, [Fast delivery: B2B field experiments amid COVID-19 outbreak and new normal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3815400), <i>Management Science</i>, forthcoming. 
+  7.  Meng Li, Shichen Zhang, [Fast delivery: B2B field experiments amid COVID-19 outbreak and new normal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3815400), <i>Management Science</i>, 2025, 71(5), 4049–4065. 
   8.  Yuxin Chen, Meng Li, Chao Liang, [E-tailer’s inventory location and pricing with strategic consumers](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3455905), <i>Production and Operations Management</i>, 2025, 34(1),30-44.
   9.  Ting Hou, Meng Li, Ricky Tan, Huazhong Zhao,    [Physician adoption of AI assistant](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4432784), <i>Manufacturing & Service Operations Management</i>, 2024, 26(5), 1639–1655.
   10. Zhi Cao, Meng Li, Paul A. Pavlou, [AI in business research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4897619), <i>Decision Sciences Journal</i>, 2024, 55(6), 518-532. 
