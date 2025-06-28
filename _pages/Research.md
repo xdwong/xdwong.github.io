@@ -4,7 +4,7 @@ title: "Research"
 author_profile: true
 ---
 
-### Selected Business Publications
+### Selected Business Papers
 
   1. Meng Li, Shuming Wang, Liang Xu, Replenishment recommendation in convenience stores with human oversight, <i>Production and Operations Management<i>, Minor Revision.
   2. Meng Li, Yan Liu, Mental accounting in allocating capacity, <i>Manufacturing & Service Operations Management<i>, forthcoming.
