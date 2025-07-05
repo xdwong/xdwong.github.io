@@ -20,6 +20,7 @@ Education
 Academic Honors and Awards
 ----- 
 
+* Affiliate faculty member, UH Population Health, 2025-
 * The President's Circle Awards, University of Houston, 2025
 * John Aure Buesseler Distinguished Lectureship
   (Whitehead Award for Excellence as Effective Scholarly Practitioner in Arts and Sciences of Health Organization), Texas Tech, 2024
