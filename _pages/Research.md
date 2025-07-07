@@ -6,7 +6,7 @@ author_profile: true
 
 ### Selected Business Papers
 
-  1. Meng Li, Shuming Wang, Liang Xu, Replenishment recommendation in convenience stores with human oversight, <i>Production and Operations Management<i>, Minor Revision.
+  1. Meng Li, Shuming Wang, Liang Xu, Replenishment recommendation in convenience stores, <i>Production and Operations Management<i>, Minor Revision.
   2. Meng Li, Yan Liu, Mental accounting in allocating capacity, <i>Manufacturing & Service Operations Management<i>, forthcoming.
   3. Meng Li, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
   4. Wei Gu, Meng Li, Shichen Zhang, [Algorithmic supervisor and employee performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5138545), <i>Production and Operations Management</i>, forthcoming.
