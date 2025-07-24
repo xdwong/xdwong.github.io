@@ -6,7 +6,7 @@ author_profile: true
 
 ### Selected Business Papers
 
-  1. Wei Gu, Meng Li, Shichen Zhang, Reducing Patient Tardiness: From Experiment to Implementation, <i>Production and Operations Management</i>, forthcoming.
+  1. Wei Gu, Meng Li, Shichen Zhang, Reducing Patient Tardiness: From Experiment to Implementation, <i>Production and Operations Management</i>, Minor Revision.
   2. Meng Li, Chao Liang, Shichen Zhang, Entrant integrative capability and incumbent bias, <i>Production and Operations Management</i>, forthcoming.
   3. Meng Li, Shuming Wang, Liang Xu, Replenishment recommendation in convenience stores, <i>Production and Operations Management</i>, forthcoming.
   4. Meng Li, Yan Liu, Mental accounting in allocating capacity, <i>Manufacturing & Service Operations Management</i>, forthcoming.
