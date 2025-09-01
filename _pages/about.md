@@ -17,9 +17,10 @@ Education
 
 * Ph.D., Operations Management, The University of Texas at Dallas, 2013
 
-Academic Honors and Awards
+Service, Honors and Awards
 ----- 
 
+* The Research and Scholarship Commitee of The Faculty Senate, University of Houston, 2024-2025
 * Affiliate faculty member, UH Population Health, 2025-
 * The President's Circle Awards, University of Houston, 2025
 * John Aure Buesseler Distinguished Lectureship
