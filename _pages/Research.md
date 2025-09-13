@@ -11,7 +11,7 @@ author_profile: true
   3. Meng Li, Shuming Wang, Liang Xu, Replenishment recommendation in convenience stores, <i>Production and Operations Management</i>, forthcoming.
   4. Meng Li, Yan Liu, Mental accounting in allocating capacity, <i>Manufacturing & Service Operations Management</i>, forthcoming.
   5. Meng Li, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
-  6. Wei Gu, Meng Li, Shichen Zhang, [Algorithmic supervisor and employee performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5138545), <i>Production and Operations Management</i>, 2025, 34(10) 3101–3118.
+  6. Wei Gu, Meng Li, Shichen Zhang, [Algorithmic supervisor and employee performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5138545), <i>Production and Operations Management</i>, 2025, 34(10), 3101–3118.
   7. Haijian Si, Meng Li, Christoph H. Loch, [Working with practitioners in Operations Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5140385),  <i>Manufacturing & Service Operations Management</i>, forthcoming.
   8.  Meng Li, Tao Li, Lili Yu, [Retail platform analytics: Practice, literature, and future research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3395606), <i>Production and Operations Management</i>, forthcoming.
   9.  Alain Bensoussan, Metin Çakanyıldırım, Meng Li, Suresh Sethi, [Inventory model with incomplete information: sales and zero-balance signals](https://link.springer.com/article/10.1007/s10100-025-00979-8), <i>Central European Journal of Operations Research</i> (honour George Leitmann for his 100th birthday), 2025, 33, 571-584.
