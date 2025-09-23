@@ -9,10 +9,10 @@ author_profile: true
   1. Wei Gu, Meng Li, Shichen Zhang, Reducing patient tardiness: From experiment to implementation, <i>Production and Operations Management</i>, forthcoming.
   2. Meng Li, Chao Liang, Shichen Zhang, Entrant integrative capability and incumbent bias, <i>Production and Operations Management</i>, forthcoming.
   3. Meng Li, Shuming Wang, Liang Xu, Replenishment recommendation in convenience stores, <i>Production and Operations Management</i>, forthcoming.
-  4. Meng Li, Yan Liu, Mental accounting in allocating capacity, <i>Manufacturing & Service Operations Management</i>, forthcoming.
+  4. Meng Li, Yan Liu, [Mental accounting in allocating capacity](https://pubsonline.informs.org/doi/full/10.1287/msom.2024.0804), <i>Manufacturing & Service Operations Management</i>, 2025, 27(5), 1497–1514.
   5. Meng Li, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, forthcoming.
   6. Wei Gu, Meng Li, Shichen Zhang, [Algorithmic supervisor and employee performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5138545), <i>Production and Operations Management</i>, 2025, 34(10), 3101–3118.
-  7. Haijian Si, Meng Li, Christoph H. Loch, [Working with practitioners in Operations Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5140385),  <i>Manufacturing & Service Operations Management</i>, forthcoming.
+  7. Haijian Si, Meng Li, Christoph H. Loch, [OM Forum–Working with practitioners in Operations Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5140385),  <i>Manufacturing & Service Operations Management</i>,  2025, 27(5), 1332–1342 (lead article).
   8.  Meng Li, Tao Li, Lili Yu, [Retail platform analytics: Practice, literature, and future research](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3395606), <i>Production and Operations Management</i>, forthcoming.
   9.  Alain Bensoussan, Metin Çakanyıldırım, Meng Li, Suresh Sethi, [Inventory model with incomplete information: sales and zero-balance signals](https://link.springer.com/article/10.1007/s10100-025-00979-8), <i>Central European Journal of Operations Research</i> (honour George Leitmann for his 100th birthday), 2025, 33, 571-584.
   10.  Meng Li, Shichen Zhang, [Fast delivery: B2B field experiments amid COVID-19 outbreak and new normal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3815400), <i>Management Science</i>, 2025, 71(5), 4049–4065. 
