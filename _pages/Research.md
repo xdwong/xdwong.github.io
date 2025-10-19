@@ -6,7 +6,7 @@ author_profile: true
 
 ### Selected Business Papers
 
-  1. Elliot Bendoly, Meng Li, Jeffrey Smith, Paul Pavlou, Operational Process and Agency Considerations inManaging Emerging Technologies in Healthcare, <i>Journal of Operations Management</i>, forthcoming.
+  1. Elliot Bendoly, Meng Li, Jeffrey Smith, Paul Pavlou, Operational process and agency considerations in managing emerging technologies in healthcare, <i>Journal of Operations Management</i>, forthcoming.
   2. Wei Gu, Meng Li, Shichen Zhang, Reducing patient tardiness: From experiment to implementation, <i>Production and Operations Management</i>, forthcoming.
   3. Meng Li, Chao Liang, Shichen Zhang, Entrant integrative capability and incumbent bias, <i>Production and Operations Management</i>, forthcoming.
   4. Meng Li, Shuming Wang, Liang Xu, Replenishment recommendation in convenience stores, <i>Production and Operations Management</i>, forthcoming.
