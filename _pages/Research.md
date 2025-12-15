@@ -11,7 +11,7 @@ author_profile: true
   3. Meng Li, Chao Liang, Shichen Zhang, Entrant integrative capability and incumbent bias, <i>Production and Operations Management</i>, forthcoming.
   4. Meng Li, Shuming Wang, Liang Xu, Replenishment recommendation in convenience stores, <i>Production and Operations Management</i>, forthcoming.
   5. Meng Li, Yan Liu, [Mental accounting in allocating capacity](https://pubsonline.informs.org/doi/full/10.1287/msom.2024.0804), <i>Manufacturing & Service Operations Management</i>, 2025, 27(5), 1497–1514.
-  6. Meng Li, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, 2026,35(1),122–128.
+  6. Meng Li, [Newsvendors with customer referrals](https://onlinelibrary.wiley.com/doi/abs/10.1111/poms.13807](https://journals.sagepub.com/doi/abs/10.1111/poms.13807), <i>Production and Operations Management</i>, 2026,35(1),122–128.
   7. Wei Gu, Meng Li, Shichen Zhang, [Algorithmic supervisor and employee performance](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5138545), <i>Production and Operations Management</i>, 2025, 34(10), 3101–3118.
   8. Haijian Si, Meng Li, Christoph H. Loch, [OM Forum–Working with practitioners in Operations Management](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5140385),  <i>Manufacturing & Service Operations Management</i>,  2025, 27(5), 1332–1342 (lead article).
   9.  Meng Li, Tao Li, Lili Yu, [Retail platform analytics: Practice, literature, and future research](https://journals.sagepub.com/doi/abs/10.1177/10591478241238972), <i>Production and Operations Management</i>, 2026,35(1),69–86.
