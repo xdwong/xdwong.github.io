@@ -8,7 +8,7 @@ author_profile: true
 
   1. Meng Li, Shuming Wang, Liang Xu, Replenishment recommendation in convenience stores, <i>Production and Operations Management</i>, forthcoming. 
   2. Wei Gu, Meng Li, Shichen Zhang, Reducing patient tardiness: From experiment to implementation, <i>Production and Operations Management</i>, forthcoming.
-  3. Qiang Li, Meng Li, Wei Gu, Zhi Cao, Helping under-resourced hospitals: Evidence from a medical poverty alleviation program, <i>Manufacturing & Service Operations Management</i>,forthcoming.
+  3. Qiang Li, Meng Li, Wei Gu, Zhi Cao, Helping under-resourced hospitals: Evidence from a medical poverty alleviation program, <i>Manufacturing & Service Operations Management</i>, forthcoming.
   4. Meng Li, Chao Liang, Shichen Zhang, Entrant integrative capability and incumbent bias, <i>Production and Operations Management</i>, forthcoming.
   5. Elliot Bendoly, Meng Li, Jeffrey Smith, Paul Pavlou, [Operational process and agency considerations in managing emerging technologies in healthcare](https://onlinelibrary.wiley.com/doi/full/10.1002/joom.70029), <i>Journal of Operations Management</i>, 2026, 72(2), 164–175.
   6. Meng Li, Tao Li, Lili Yu, [Retail platform analytics: Practice, literature, and future research](https://journals.sagepub.com/doi/abs/10.1177/10591478241238972), <i>Production and Operations Management</i>, 2026,35(1),69–86.
