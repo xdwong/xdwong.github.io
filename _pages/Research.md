@@ -7,7 +7,7 @@ author_profile: true
 ### Selected Business Papers
 
   1. Wei Gu, Meng Li, Shujing Sun, Tele-follow-up and outpatient care, <i>Production and Operations Management</i>, forthcoming (Best paper for the POMS College of Operational Excellence Best Paper Competition, 2022, Runners-up for the INFORMS TIMES Best Working Paper, 2022) <br> 
-  2. Wei Gu, Meng Li, Shichen Zhang, Reducing patient tardiness: From experiment to implementation, <i>Production and Operations Management</i>, forthcoming.
+  2. Wei Gu, Meng Li, Shichen Zhang, Reducing patient tardiness: From experiment to implementation, <i>Production and Operations Management</i>, 2026, 35(5),  1630–1647.
   3. Qiang Li, Meng Li, Wei Gu, Zhi Cao, Helping under-resourced hospitals: Evidence from a medical poverty alleviation program, <i>Manufacturing & Service Operations Management</i>, forthcoming.
   4. Meng Li, Chao Liang, Shichen Zhang, Entrant integrative capability and incumbent bias, <i>Production and Operations Management</i>, 2026, 35(4),  1469–1485.
   5. Meng Li, Shuming Wang, Liang Xu, Replenishment recommendation in convenience stores, <i>Production and Operations Management</i>, 2026, 35(3) 1095–1112. 
