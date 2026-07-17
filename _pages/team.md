@@ -20,7 +20,7 @@ author_profile: true
   - Placement: Assistant Professor, Sichuan University, Chengdu, China
 * Shichen Zhang, PhD student at Tianjin University, 2019-20
   - Best Student Paper, International Workshop on Behavioral Operations Management, 2020
-  - Placement: Assistant Professor, Nankai University, Tianjin, China
+  - Placement: Associate Professor, Tianjin University, Tianjin, China
 * Qiang Li, PhD student at Rutgers University, Co-major Supervisor, 2018-21   
   - Placement: Assistant Professor, Lazaridis School of Business and Economics, Wilfrid Laurier University, Canada
 * Lili Yu, PhD student at University of Science and Technology of China, 2018-19 
