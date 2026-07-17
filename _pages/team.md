@@ -11,7 +11,7 @@ author_profile: true
 <!--* Xudong Wang, PhD student at Tianjin University, 2022-present   -->
 * Feiteng Huang, PhD student at University of Houston, 2022-2026
   - Placement: Assistant Professor, Harbin Institute of Technology,  China
-* Jia Zhao, PhD student at University of Chinese Academy of Sciences, 2023-2025
+* Jia Zhao, PhD student at University of Chinese Academy of Sciences, 2024-2025
   - Placement: Assistant Professor, Shanghai University of Finance and Economics,  China
 * Ting Hou, PhD student at University of Science and Technology of China, 2021-23
   - Winner of the POMS CSOM Best Student Paper, 2023
