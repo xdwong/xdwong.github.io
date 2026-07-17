@@ -35,7 +35,7 @@ author_profile: true
 
 ### Post-Doc  
 
-* Jian Liu, PhD from NUAA and Missouri S&T, 2022-2023, Assistant Professor, Assistant Research Professor, Missouri University of Science and Technology
+* Jian Liu, PhD from NUAA and Missouri S&T, 2022-2023, Assistant Professor, Assistant Research Professor, Missouri S&T
 * Jingyi Tian, PhD from USC, 2023-25, Assistant Professor, West Texas A&M University
 * Jason Wu, PhD from UT Arlington, 2022-23, Assistant Professor, UNSW Sydney
 * Qiang Li, PhD from Rutgers, 2021-22, Assistant Professor,  Wilfrid Laurier University
