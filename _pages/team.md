@@ -9,6 +9,10 @@ author_profile: true
 
 <!--* Yanan Zhang, PhD student at Shanghai Jiaotong University, 2022-present -->
 <!--* Xudong Wang, PhD student at Tianjin University, 2022-present   -->
+* Feiteng Huang, PhD student at University of Houston, 2022-2026
+  - Placement: Assistant Professor, Harbin Institute of Technology,  China
+* Jia Zhao, PhD student at University of Chinese Academy of Sciences, 2023-2025
+  - Placement: Assistant Professor, Shanghai University of Finance and Economics,  China
 * Ting Hou, PhD student at University of Science and Technology of China, 2021-23
   - Winner of the POMS CSOM Best Student Paper, 2023
   - Placement: Assistant Professor, Shanghai University of Finance and Economics,  China
@@ -31,7 +35,7 @@ author_profile: true
 
 ### Post-Doc  
 
-<!--* Jian Liu, PhD from NUAA and Missouri S&T, 2022- -->
+* Jian Liu, PhD from NUAA and Missouri S&T, 2022-2023, Assistant Professor, Assistant Research Professor, Missouri University of Science and Technology
 * Jingyi Tian, PhD from USC, 2023-25, Assistant Professor, West Texas A&M University
 * Jason Wu, PhD from UT Arlington, 2022-23, Assistant Professor, UNSW Sydney
 * Qiang Li, PhD from Rutgers, 2021-22, Assistant Professor,  Wilfrid Laurier University
