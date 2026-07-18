@@ -13,7 +13,7 @@ author_profile: true
   - Placement: Assistant Professor, Harbin Institute of Technology,  China
 * Jia Zhao, PhD student at University of Chinese Academy of Sciences, 2024-25
   - Placement: Assistant Professor, Shanghai University of Finance and Economics,  China
-* Junqi Liu, PhD student at Beihang University, 2023-2025
+* Junqi Liu, PhD student at Beihang University, 2023-25
   - Placement: Post-doc Fellow, Beijing Normal University,  China
 * Ting Hou, PhD student at University of Science and Technology of China, 2021-23
   - Winner of the POMS CSOM Best Student Paper, 2023
