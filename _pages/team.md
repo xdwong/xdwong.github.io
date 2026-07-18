@@ -9,9 +9,9 @@ author_profile: true
 
 <!--* Yanan Zhang, PhD student at Shanghai Jiaotong University, 2022-present -->
 <!--* Xudong Wang, PhD student at Tianjin University, 2022-present   -->
-* Feiteng Huang, PhD student at University of Houston, 2022-2026
+* Feiteng Huang, PhD student at University of Houston, 2022-26
   - Placement: Assistant Professor, Harbin Institute of Technology,  China
-* Jia Zhao, PhD student at University of Chinese Academy of Sciences, 2024-2025
+* Jia Zhao, PhD student at University of Chinese Academy of Sciences, 2024-25
   - Placement: Assistant Professor, Shanghai University of Finance and Economics,  China
 * Junqi Liu, PhD student at Beihang University, 2023-2025
   - Placement: Post-doc Fellow, Beijing Normal University,  China
@@ -37,7 +37,7 @@ author_profile: true
 
 ### Post-Doc  
 
-* Jian Liu, PhD from NUAA and Missouri S&T, 2022-2023, Assistant Research Professor, Missouri S&T
+* Jian Liu, PhD from NUAA and Missouri S&T, 2022-23, Assistant Research Professor, Missouri S&T
 * Jingyi Tian, PhD from USC, 2023-25, Assistant Professor, West Texas A&M University
 * Jason Wu, PhD from UT Arlington, 2022-23, Assistant Professor, UNSW Sydney
 * Qiang Li, PhD from Rutgers, 2021-22, Assistant Professor,  Wilfrid Laurier University
