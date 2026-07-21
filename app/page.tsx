@@ -16,6 +16,26 @@ const updates = [
   ["2024", "Delivered the Buesseler Distinguished Lecture at Texas Tech."],
 ];
 
+const honors = [
+  ["2025–", "Affiliate Faculty Member, UH Population Health"],
+  ["2025", "President’s Circle Award, University of Houston"],
+  ["2024–25", "Research and Scholarship Committee, Faculty Senate, University of Houston"],
+  ["2024", "John Aure Buesseler Distinguished Lectureship, Texas Tech"],
+  ["2024", "Honorable Mention, POMS Best Healthcare Paper Competition"],
+  ["2024", "Energy Transition Institute Award ($62,500), University of Houston"],
+  ["2023", "Global Business Management Award, IEOM Conference"],
+  ["2023", "Lucile and Leroy Melcher Excellence in Research Award"],
+  ["2022", "Shell Sustainability Research Grant ($100,000)"],
+  ["2022", "Management Science Distinguished Service Award"],
+  ["2022", "Runner-up, INFORMS TIMES Best Working Paper"],
+  ["2022", "Best Paper, POMS College of Operational Excellence"],
+  ["2021", "Finalist, MSOM Service Management SIG Award"],
+  ["2020", "Rutgers Research Council Award"],
+  ["2020", "Catalyst Grant, Provost’s Fund for Research, Rutgers University"],
+  ["2019", "Second Place, JFIG Paper Competition"],
+  ["2019", "Finalist, INFORMS Best Service Science Paper Award"],
+];
+
 export default function Home() {
   return (
     <main>
@@ -80,6 +100,12 @@ export default function Home() {
         <p className="section-label">03 — Updates</p>
         <div className="section-title"><p>Recent news</p><h2>Research, recognition, and academic service.</h2></div>
         <div className="updates-list">{updates.map(([year, text]) => <div className="update" key={text}><span>{year}</span><p>{text}</p></div>)}</div>
+      </section>
+
+      <section className="updates section-grid honors-section">
+        <p className="section-label">Awards — Complete record</p>
+        <div className="section-title"><p>Service, honors & awards</p><h2>Recognition for research, service, and scholarly leadership.</h2></div>
+        <div className="updates-list">{honors.map(([year, text]) => <div className="update" key={text}><span>{year}</span><p>{text}</p></div>)}</div>
       </section>
 
       <section className="roles" id="service">

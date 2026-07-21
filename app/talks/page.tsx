@@ -1,21 +1,28 @@
 import { InnerPage } from "../components/InnerPage";
 
-const talks = [
-  ["2024", "The Value of AI: Two Field Experiments on Medical Platform", "Texas State University; Texas Tech Buesseler Lecture Series"],
-  ["2024", "Reducing Patient Tardiness: From Experiment to Implementation", "Coventry University; University of Chile"],
-  ["2024", "AI in Business Research", "University of Surrey and UK Parliament"],
-  ["2024", "AI in Operations Management", "University of Kent; University of Liverpool"],
-  ["2024", "Physician Adoption of AI Assistant", "University of Texas at Dallas"],
-  ["2023", "AI in Operations Management", "Instituto Tecnológico Autónomo de México; University of Minnesota"],
-  ["2023", "Two Empirical Studies on Disruptive Innovation", "University of Florida"],
-  ["2023", "Managerial Behavior in Revenue Management", "Texas A&M University"],
-  ["2022", "Managerial Bias in Revenue Management", "University of Miami; University of Florida; Hong Kong Polytechnic University"],
-  ["2020", "Revenue management of online platforms", "Duke University"],
-  ["2020", "AI and procurement", "University of Nebraska–Lincoln; Rutgers University; University of Hong Kong"],
+const seminars = [
+  ["Scheduled","University of California, Davis"],["Scheduled","University of Oklahoma · Distinguished Speakers’ Series"],
+  ["2024","The Value of AI: Two Field Experiments on Medical Platform · Texas State University"],["2024","Reducing Patient Tardiness: From Experiment to Implementation · Coventry University"],["2024","AI in Business Research · University of Surrey and UK Parliament"],["2024","The Value of AI: Two Field Experiments on Medical Platform · Texas Tech Buesseler Lecture Series"],["2024","Reducing Patient Tardiness: From Experiment to Implementation · University of Chile"],["2024","AI in Operations Management · University of Kent"],["2024","AI in Operations Management · University of Liverpool"],["2024","Physician Adoption of AI Assistant · University of Texas at Dallas"],
+  ["2023","AI in Operations Management · Instituto Tecnológico Autónomo de México"],["2023","AI in Operations Management · University of Minnesota"],["2023","Two Empirical Studies on Disruptive Innovation · University of Florida"],["2023","Managerial Behavior in Revenue Management · Texas A&M University"],
+  ["2022","Managerial Bias in Revenue Management · University of Miami"],["2022","Two Empirical Studies on Disruptive Innovation · Florida State University"],["2022","Two Empirical Studies on Disruptive Innovation · HPE Data Science Institute"],["2022","Managerial Bias in Revenue Management · University of Florida"],["2022","Managerial Bias in Revenue Management · The Hong Kong Polytechnic University"],
+  ["2021","Two Empirical Studies on Disruptive Innovation · University of Science and Technology of China"],["2021","Two Empirical Studies on Disruptive Innovation · Ball State University"],["2021","Two Empirical Studies on Disruptive Innovation · Tsinghua University"],
+  ["2020","Revenue Management of Online Platforms · Duke University"],["2020","AI and Procurement · University of Nebraska–Lincoln"],["2020","AI and Procurement · Rutgers University"],["2020","AI and Procurement · University of Hong Kong"],["2020","Last-mile Commute: Impact of Bike-sharing on Restaurants · Drexel University"],
+  ["2018","Beneficial Product Returns · Penn State University"],["2017","Beneficial Product Returns · New York University Shanghai"],["2017","Beneficial Product Returns · Baruch College"],["2016","Overconfident Competing Newsvendors · Michigan State University"],["2016","Overconfident Competing Newsvendors · University of Kansas"],["2016","Overconfident Competing Newsvendors · Tsinghua University"],["2015","Product Returns in Distribution Channels · University of Pennsylvania"],
 ];
 
-export default function TalksPage(){return <InnerPage index="05" eyebrow="Talks" title="Ideas in conversation." intro="Invited seminars, distinguished lectures, tutorials, and conference presentations connecting research evidence with academic and practitioner communities.">
-  <div className="inner-section-heading"><p>Selected engagements</p><h2>Invited seminars</h2></div>
-  <div className="inner-list">{talks.map(([year,title,place])=><article className="inner-row talk-row" key={title+place}><time>{year}</time><div><h3>{title}</h3><p>{place}</p></div></article>)}</div>
-  <section className="callout"><p className="section-label">Conference highlights</p><h2>Plenary and tutorial presentations at POM, POMS, INFORMS, and DSI.</h2></section>
+const conferences = [
+  ["2024","Plenary: Reducing Patient Tardiness: From Experiment to Implementation · POM Istanbul"],["2023–24","Tutorial: AI in Operations Management · POM Annual Conference"],["2023","AI-driven Decision Sciences · DSJ Mini-Conference"],
+  ["2019","Last-mile Commute and Food Service · INFORMS, Seattle"],["2018","Overconfident Distribution Channels · INFORMS, Phoenix"],["2018","Estimating the Discounting Factor of Dynamic Programming with a Field Experiment · INFORMS, Phoenix"],["2018","Forecast Information Sharing with Multiple Suppliers: Trust & Coordination · INFORMS, Phoenix"],["2018","Estimating the Discounting Factor of Dynamic Programming with a Field Experiment · INFORMS Marketing Science, Philadelphia"],["2018","Dynamic Pricing to Explore Markets with Customer- and Time-heterogeneity · POMS, Houston"],["2018","Beneficial Consumer Returns · POMS, Houston"],["2018","Dynamic Pricing to Explore Markets with Customer- and Time-heterogeneity · INFORMS, Houston"],
+  ["2017","Returns Policies in Distribution Channels · POMS, Seattle"],["2017","Manufacturer Competition and Product Returns · POMS, Seattle"],
+  ["2016","Dynamic Selling Mechanisms for Exploring Markets with Customer- and Time-heterogeneity · INFORMS, Nashville"],["2016","Returns Policies for Overstock and Consumer Returns in Distribution Channels · INFORMS, Nashville"],["2016","Dynamic Pricing to Explore Markets with Customer- and Time-heterogeneity · POMS, Orlando"],["2016","Returns Policies for Overstock and Consumer Returns in Distribution Channels · POMS, Orlando"],
+  ["2015","Overconfident Competing Newsvendors · INFORMS, Philadelphia"],["2015","Demand Uncertainty Reduction Effects in Decentralized Supply Chains · POMS, Washington, D.C."],["2015","Dynamic Pricing of Vertically Differentiated Products with Unknown Customer Heterogeneity · POMS, Washington, D.C."],["2015","Product Returns in Distribution Channels · POMS, Washington, D.C."],["2015","Overconfident Competing Newsvendors · POMS, Washington, D.C."],
+  ["2012","Competing with Bandit Supply Chains · DSI, San Francisco"],["2012","Competing with Bandit Supply Chains · INFORMS International, Beijing"],["2012","Competing with Bandit Supply Chains · INFORMS, Phoenix"],
+];
+
+function TalkList({items}:{items:string[][]}){return <div className="inner-list">{items.map(([year,title])=><article className="inner-row talk-row" key={year+title}><time>{year}</time><div><h3>{title}</h3></div></article>)}</div>}
+
+export default function TalksPage(){return <InnerPage index="05" eyebrow="Talks" title="Ideas in conversation." intro="A complete record of invited seminars, distinguished lectures, tutorials, conference presentations, and doctoral research listed on the original site.">
+  <div className="inner-section-heading"><p>34 engagements</p><h2>Invited seminars</h2></div><TalkList items={seminars}/>
+  <div className="inner-section-heading secondary-heading"><p>25 presentations</p><h2>Conference presentations</h2></div><TalkList items={conferences}/>
+  <section className="callout"><p className="section-label">Thesis / Dissertation</p><h2>Inventory models with incomplete information</h2><p>Ph.D. Dissertation, The University of Texas at Dallas, 2013. Advisors: Alain Bensoussan and Suresh Sethi.</p></section>
 </InnerPage>}

@@ -13,10 +13,10 @@ export default async function PublicationPage({ params }: { params: Promise<{slu
     <article className="paper-detail">
       <a className="back-link" href="/research">← All publications</a>
       <div className="paper-detail-grid">
-        <aside><p className="eyebrow">Publication · {paper.year}</p><div className="detail-topics">{paper.topics.map(topic=><span key={topic}>{topic}</span>)}</div></aside>
+        <aside><p className="eyebrow">{paper.section} · {paper.year}</p><div className="detail-topics">{paper.topics.map(topic=><span key={topic}>{topic}</span>)}</div></aside>
         <div className="paper-detail-main"><h1>{paper.title}</h1><p className="detail-authors">{paper.authors}</p><p className="detail-journal">{paper.journal}</p>{paper.note&&<p className="detail-note">{paper.note}</p>}</div>
       </div>
-      <div className="paper-facts"><div><span>Year</span><strong>{paper.year}</strong></div><div><span>Research theme</span><strong>{paper.topics.join(" · ")}</strong></div><div><span>Publication</span><strong>{paper.journal}</strong></div></div>
+      <div className="paper-facts"><div><span>Type & year</span><strong>{paper.section} · {paper.year}</strong></div><div><span>Research theme</span><strong>{paper.topics.join(" · ")}</strong></div><div><span>Publication</span><strong>{paper.journal}</strong></div></div>
       <section className="paper-access"><p className="section-label">Read the research</p><div><h2>Publication record and full-text access</h2><p>Use the publisher or working-paper page for the abstract, citation, access options, and available full text.</p>{paper.sourceUrl?<a href={paper.sourceUrl} target="_blank" rel="noreferrer">View publication ↗</a>:<span className="unavailable-link">External record not yet listed</span>}</div></section>
     </article>
     <SiteFooter />

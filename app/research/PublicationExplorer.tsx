@@ -10,7 +10,7 @@ export function PublicationExplorer() {
     const term = query.trim().toLowerCase();
     return publications.filter((paper) => {
       const matchesTopic = activeTopic === "All" || paper.topics.includes(activeTopic);
-      const matchesQuery = !term || `${paper.title} ${paper.authors} ${paper.journal} ${paper.year}`.toLowerCase().includes(term);
+      const matchesQuery = !term || `${paper.title} ${paper.authors} ${paper.journal} ${paper.year} ${paper.section}`.toLowerCase().includes(term);
       return matchesTopic && matchesQuery;
     });
   }, [activeTopic, query]);
@@ -26,7 +26,7 @@ export function PublicationExplorer() {
 
     {filtered.length ? <div className="publication-cards">{filtered.map((paper,index)=><a className="publication-card" href={`/research/${paper.slug}`} key={paper.slug}>
       <span className="publication-number">{String(index+1).padStart(2,"0")}</span>
-      <div className="publication-card-main"><div className="publication-tags">{paper.topics.map(topic=><span key={topic}>{topic}</span>)}</div><h2>{paper.title}</h2><p>{paper.authors}</p><small>{paper.journal}</small>{paper.note&&<em>{paper.note}</em>}</div>
+      <div className="publication-card-main"><div className="publication-tags"><span className="publication-section">{paper.section}</span>{paper.topics.map(topic=><span key={topic}>{topic}</span>)}</div><h2>{paper.title}</h2><p>{paper.authors}</p><small>{paper.journal}</small>{paper.note&&<em>{paper.note}</em>}</div>
       <div className="publication-card-side"><time>{paper.year}</time><span aria-hidden="true">↗</span></div>
     </a>)}</div> : <div className="empty-state"><h2>No publications match.</h2><p>Try another topic or search term.</p><button type="button" onClick={clear}>Reset search and filters</button></div>}
   </>;
