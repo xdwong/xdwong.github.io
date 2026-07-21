@@ -1,3 +1,6 @@
+import { SiteFooter } from "./components/SiteFooter";
+import { SiteHeader } from "./components/SiteHeader";
+
 const publications = [
   { year: "2026", title: "Tele-follow-up and outpatient care", authors: "Wei Gu, Meng Li, Shujing Sun", journal: "Production and Operations Management · Forthcoming", note: "POMS College Best Paper; INFORMS TIMES Runner-up" },
   { year: "2026", title: "Reducing patient tardiness: From experiment to implementation", authors: "Wei Gu, Meng Li, Shichen Zhang", journal: "Production and Operations Management 35(5), 1630–1647" },
@@ -16,13 +19,7 @@ const updates = [
 export default function Home() {
   return (
     <main>
-      <header className="site-header">
-        <a className="wordmark" href="#top" aria-label="Meng Li home"><span>ML</span>Meng Li</a>
-        <nav aria-label="Primary navigation">
-          <a href="#research">Research</a><a href="#service">Service</a><a href="#talks">Talks</a><a href="#teaching">Teaching</a><a href="#team">Team</a>
-        </nav>
-        <a className="header-link" href="mailto:mli@bauer.uh.edu">Contact <span aria-hidden="true">↗</span></a>
-      </header>
+      <SiteHeader />
 
       <section className="hero" id="top">
         <div className="hero-copy">
@@ -30,8 +27,8 @@ export default function Home() {
           <h1>Building a more<br/><em>human-centered</em><br/>future with AI.</h1>
           <p className="intro">I study how artificial intelligence reshapes organizational decision-making, healthcare delivery, and operational systems—and how we can integrate it into human work responsibly.</p>
           <div className="hero-actions">
-            <a className="button primary" href="#research">Explore research <span>↓</span></a>
-            <a className="button text" href="https://scholar.google.com" target="_blank" rel="noreferrer">Google Scholar <span>↗</span></a>
+            <a className="button primary" href="/research">Explore research <span>→</span></a>
+            <a className="button text" href="https://scholar.google.com/citations?hl=en&user=2RJSbyMAAAAJ" target="_blank" rel="noreferrer">Google Scholar <span>↗</span></a>
           </div>
         </div>
         <aside className="profile-card" aria-label="Profile">
@@ -56,7 +53,9 @@ export default function Home() {
         <p className="section-label">01 — About</p>
         <div className="section-body large-copy">
           <p>Dr. Meng Li is a professor, the founding director of the Bauer Human-Centered AI Institute, department chair of DISC, and Endowed C.T. Bauer Chair of AI at the C.T. Bauer College of Business, University of Houston.</p>
-          <p>His work combines field experiments, causal inference, and operations research to develop evidence-based approaches for integrating AI into human work.</p>
+          <p>He is a scholar of human-centered AI, studying how AI reshapes organizational decision making, healthcare delivery, and operational systems. Through research, education, and institution building, he develops evidence-based approaches for integrating AI into human work.</p>
+          <p>His research has appeared in journals such as <em>Management Science</em>, <em>Manufacturing & Service Operations Management</em>, <em>Operations Research</em>, <em>Production and Operations Management</em>, <em>Journal of Operations Management</em>, <em>Strategic Management Journal</em>, and <em>Nature Sustainability</em>. He is a Department Editor for <em>Journal of Operations Management</em> and <em>Decision Sciences Journal</em>, and a Senior Editor for <em>Production and Operations Management</em>.</p>
+          <p>He has edited AI-related Special Issues for journals including <em>Information Systems Research</em>, <em>Journal of Operations Management</em>, and <em>Production and Operations Management</em>. He has held visiting positions, including a recent visiting appointment at the University of Oxford.</p>
         </div>
         <div className="fact"><span>Education</span><strong>Ph.D., Operations Management</strong><p>The University of Texas at Dallas, 2013</p></div>
       </section>
@@ -73,7 +72,7 @@ export default function Home() {
             <div><p className="pub-title">{paper.title}</p><p className="authors">{paper.authors}</p><p className="journal">{paper.journal}</p>{paper.note && <span className="note">{paper.note}</span>}</div>
             <span className="year">{paper.year}</span>
           </article>)}
-          <a className="all-link" href="https://www.mengli.us/Research/" target="_blank" rel="noreferrer">View complete publication list <span>↗</span></a>
+          <a className="all-link" href="/research">View research portfolio <span>→</span></a>
         </div>
       </section>
 
@@ -84,17 +83,12 @@ export default function Home() {
       </section>
 
       <section className="roles" id="service">
-        <div className="role-card featured"><p className="section-label">04 — Service</p><h2>Editorial leadership</h2><p>Department Editor, <em>Journal of Operations Management</em> and <em>Decision Sciences Journal</em>; Senior Editor, <em>Production and Operations Management</em>.</p><a href="https://www.mengli.us/Service/">View academic service →</a></div>
-        <div className="role-card" id="talks"><p className="section-label">05 — Talks</p><h2>Ideas in conversation</h2><p>Invited seminars and keynotes on AI in operations, healthcare platforms, field experimentation, and organizational decision-making.</p><a href="https://www.mengli.us/Conference/">Selected talks →</a></div>
-        <div className="role-card" id="teaching"><p className="section-label">06 — Teaching</p><h2>Learning by inquiry</h2><p>Behavioral Operations Management, Business Analytics, and Demand & Supply Integration at Ph.D., MBA, and undergraduate levels.</p><a href="https://www.mengli.us/course/">Teaching portfolio →</a></div>
-        <div className="role-card" id="team"><p className="section-label">07 — Team</p><h2>Mentoring scholars</h2><p>Supporting doctoral students, postdoctoral researchers, and visiting scholars pursuing rigorous, practically relevant research.</p><a href="https://www.mengli.us/team/">Meet the team →</a></div>
+        <div className="role-card featured"><p className="section-label">04 — Service</p><h2>Editorial leadership</h2><p>Department Editor, <em>Journal of Operations Management</em> and <em>Decision Sciences Journal</em>; Senior Editor, <em>Production and Operations Management</em>.</p><a href="/service">View academic service →</a></div>
+        <div className="role-card" id="talks"><p className="section-label">05 — Talks</p><h2>Ideas in conversation</h2><p>Invited seminars and keynotes on AI in operations, healthcare platforms, field experimentation, and organizational decision-making.</p><a href="/talks">Selected talks →</a></div>
+        <div className="role-card" id="teaching"><p className="section-label">06 — Teaching</p><h2>Learning by inquiry</h2><p>Behavioral Operations Management, Business Analytics, and Demand & Supply Integration at Ph.D., MBA, and undergraduate levels.</p><a href="/teaching">Teaching portfolio →</a></div>
+        <div className="role-card" id="team"><p className="section-label">07 — Team</p><h2>Mentoring scholars</h2><p>Supporting doctoral students, postdoctoral researchers, and visiting scholars pursuing rigorous, practically relevant research.</p><a href="/team">Meet the team →</a></div>
       </section>
-
-      <footer>
-        <div><p className="footer-kicker">Let’s connect</p><h2>Research advances<br/>through collaboration.</h2></div>
-        <div className="footer-links"><a href="mailto:mli@bauer.uh.edu">Email</a><a href="https://scholar.google.com" target="_blank" rel="noreferrer">Google Scholar</a><a href="https://www.bauer.uh.edu/" target="_blank" rel="noreferrer">University of Houston</a></div>
-        <p className="copyright">© 2026 Dr. Meng Li <span>Houston, Texas</span></p>
-      </footer>
+      <SiteFooter />
     </main>
   );
 }
