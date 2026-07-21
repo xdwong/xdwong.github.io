@@ -21,7 +21,7 @@ export default function Home() {
         <nav aria-label="Primary navigation">
           <a href="#research">Research</a><a href="#service">Service</a><a href="#talks">Talks</a><a href="#teaching">Teaching</a><a href="#team">Team</a>
         </nav>
-        <a className="header-link" href="mailto:ml@uh.edu">Contact <span aria-hidden="true">↗</span></a>
+        <a className="header-link" href="mailto:mli@bauer.uh.edu">Contact <span aria-hidden="true">↗</span></a>
       </header>
 
       <section className="hero" id="top">
@@ -92,7 +92,7 @@ export default function Home() {
 
       <footer>
         <div><p className="footer-kicker">Let’s connect</p><h2>Research advances<br/>through collaboration.</h2></div>
-        <div className="footer-links"><a href="mailto:ml@uh.edu">Email</a><a href="https://scholar.google.com" target="_blank" rel="noreferrer">Google Scholar</a><a href="https://www.bauer.uh.edu/" target="_blank" rel="noreferrer">University of Houston</a></div>
+        <div className="footer-links"><a href="mailto:mli@bauer.uh.edu">Email</a><a href="https://scholar.google.com" target="_blank" rel="noreferrer">Google Scholar</a><a href="https://www.bauer.uh.edu/" target="_blank" rel="noreferrer">University of Houston</a></div>
         <p className="copyright">© 2026 Dr. Meng Li <span>Houston, Texas</span></p>
       </footer>
     </main>
