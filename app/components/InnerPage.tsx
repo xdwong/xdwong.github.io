@@ -2,15 +2,13 @@ import type { ReactNode } from "react";
 import { SiteFooter } from "./SiteFooter";
 import { SiteHeader } from "./SiteHeader";
 
-export function InnerPage({ index, eyebrow, title, intro, children }: { index: string; eyebrow: string; title: string; intro: string; children: ReactNode }) {
+export function InnerPage({ index, eyebrow, children }: { index: string; eyebrow: string; title: string; intro: string; children: ReactNode }) {
   return <main>
     <SiteHeader />
-    <section className="inner-hero">
-      <p className="eyebrow">{index} — {eyebrow}</p>
-      <h1>{title}</h1>
-      <p>{intro}</p>
+    <section className="inner-content">
+      <header className="compact-page-title"><span>{index}</span><h1>{eyebrow}</h1></header>
+      {children}
     </section>
-    <section className="inner-content">{children}</section>
     <SiteFooter />
   </main>;
 }

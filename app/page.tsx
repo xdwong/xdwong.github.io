@@ -53,7 +53,7 @@ export default function Home() {
         </div>
         <aside className="profile-card" aria-label="Profile">
           <div className="portrait-wrap">
-            <img src="/meng.png" alt="Portrait of Dr. Meng Li" />
+            <img src="/meng-color.jpg" alt="Portrait of Dr. Meng Li" />
             <span className="portrait-fallback">ML</span>
           </div>
           <div className="profile-meta">
