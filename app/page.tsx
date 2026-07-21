@@ -82,7 +82,6 @@ export default function Home() {
 
       <section className="research section-grid dark" id="research">
         <p className="section-label">02 — Research</p>
-        <div className="section-title"><p>Selected publications</p><h2>Research grounded in consequential, real-world problems.</h2></div>
         <div className="topics">
           <span>Human-centered AI</span><span>Healthcare operations</span><span>Field experiments</span><span>Supply chains</span>
         </div>
@@ -98,19 +97,17 @@ export default function Home() {
 
       <section className="updates section-grid">
         <p className="section-label">03 — Updates</p>
-        <div className="section-title"><p>Recent news</p><h2>Research, recognition, and academic service.</h2></div>
         <div className="updates-list">{updates.map(([year, text]) => <div className="update" key={text}><span>{year}</span><p>{text}</p></div>)}</div>
       </section>
 
       <section className="updates section-grid honors-section">
         <p className="section-label">Awards — Complete record</p>
-        <div className="section-title"><p>Service, honors & awards</p><h2>Recognition for research, service, and scholarly leadership.</h2></div>
         <div className="updates-list">{honors.map(([year, text]) => <div className="update" key={text}><span>{year}</span><p>{text}</p></div>)}</div>
       </section>
 
       <section className="roles" id="service">
         <div className="role-card featured"><p className="section-label">04 — Service</p><h2>Editorial leadership</h2><p>Department Editor, <em>Journal of Operations Management</em> and <em>Decision Sciences Journal</em>; Senior Editor, <em>Production and Operations Management</em>.</p><a href="/service">View academic service →</a></div>
-        <div className="role-card" id="talks"><p className="section-label">05 — Talks</p><h2>Ideas in conversation</h2><p>Invited seminars and keynotes on AI in operations, healthcare platforms, field experimentation, and organizational decision-making.</p><a href="/talks">Selected talks →</a></div>
+        <div className="role-card" id="talks"><p className="section-label">05 — Talks</p><h2>Ideas in conversation</h2><a href="/talks">Selected talks →</a></div>
         <div className="role-card" id="teaching"><p className="section-label">06 — Teaching</p><h2>Learning by inquiry</h2><p>Behavioral Operations Management, Business Analytics, and Demand & Supply Integration at Ph.D., MBA, and undergraduate levels.</p><a href="/teaching">Teaching portfolio →</a></div>
         <div className="role-card" id="team"><p className="section-label">07 — Team</p><h2>Mentoring scholars</h2><p>Supporting doctoral students, postdoctoral researchers, and visiting scholars pursuing rigorous, practically relevant research.</p><a href="/team">Meet the team →</a></div>
       </section>

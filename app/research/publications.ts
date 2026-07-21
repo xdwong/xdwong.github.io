@@ -4,6 +4,7 @@ export type Section = "Business Papers" | "Other Publications" | "Book Chapters"
 export type Publication = {
   slug: string; year: string; title: string; authors: string; journal: string;
   topics: Topic[]; section?: Section; sourceUrl?: string; note?: string;
+  abstract?: string;
 };
 
 export const topics: Array<"All" | Topic> = ["All", "Human-Centered AI", "Healthcare", "Platforms & Retail", "Behavioral Operations", "Supply Chains", "Methods & Practice"];
