@@ -21,7 +21,7 @@ const conferences = [
 
 function TalkList({items}:{items:string[][]}){return <div className="inner-list">{items.map(([year,title])=><article className="inner-row talk-row" key={year+title}><time>{year}</time><div><h3>{title}</h3></div></article>)}</div>}
 
-export default function TalksPage(){return <InnerPage index="05" eyebrow="Talks" title="Ideas in conversation." intro="A complete record of invited seminars, distinguished lectures, tutorials, conference presentations, and doctoral research listed on the original site.">
+export default function TalksPage(){return <InnerPage index="06" eyebrow="Media & Talks" title="Media & Talks" intro="Invited seminars and conference presentations.">
   <div className="inner-section-heading"><p>34 engagements</p><h2>Invited seminars</h2></div><TalkList items={seminars}/>
   <div className="inner-section-heading secondary-heading"><p>25 presentations</p><h2>Conference presentations</h2></div><TalkList items={conferences}/>
   <section className="callout"><p className="section-label">Thesis / Dissertation</p><h2>Inventory models with incomplete information</h2><p>Ph.D. Dissertation, The University of Texas at Dallas, 2013. Advisors: Alain Bensoussan and Suresh Sethi.</p></section>

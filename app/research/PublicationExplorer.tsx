@@ -1,16 +1,22 @@
 "use client";
 
 import { useMemo, useState } from "react";
-import { publications, topics, type Publication, type Topic } from "./publications";
+import { publications, type Publication } from "./publications";
 
 type DetailMode = "abstract" | "cite";
+type Theme = "All" | "Human-Centered AI / AI & Work" | "AI in Healthcare" | "AI & Operations / Platforms";
+const themes: Theme[] = ["All", "Human-Centered AI / AI & Work", "AI in Healthcare", "AI & Operations / Platforms"];
+const inTheme = (paper: Publication, theme: Theme) => theme === "All" ||
+  (theme === "Human-Centered AI / AI & Work" && paper.topics.some(topic=>["Human-Centered AI","Behavioral Operations"].includes(topic))) ||
+  (theme === "AI in Healthcare" && paper.topics.includes("Healthcare")) ||
+  (theme === "AI & Operations / Platforms" && paper.topics.some(topic=>["Platforms & Retail","Supply Chains","Methods & Practice"].includes(topic)));
 
 function citationFor(paper: Publication) {
   return `${paper.authors} (${paper.year}). ${paper.title}. ${paper.journal}.`;
 }
 
 export function PublicationExplorer() {
-  const [activeTopic, setActiveTopic] = useState<"All" | Topic>("All");
+  const [activeTopic, setActiveTopic] = useState<Theme>("All");
   const [query, setQuery] = useState("");
   const [openSlug, setOpenSlug] = useState<string | null>(null);
   const [detailMode, setDetailMode] = useState<DetailMode>("abstract");
@@ -18,7 +24,7 @@ export function PublicationExplorer() {
   const filtered = useMemo(() => {
     const term = query.trim().toLowerCase();
     return publications.filter((paper) => {
-      const matchesTopic = activeTopic === "All" || paper.topics.includes(activeTopic);
+      const matchesTopic = inTheme(paper, activeTopic);
       const matchesQuery = !term || `${paper.title} ${paper.authors} ${paper.journal} ${paper.year} ${paper.section}`.toLowerCase().includes(term);
       return matchesTopic && matchesQuery;
     });
@@ -33,7 +39,7 @@ export function PublicationExplorer() {
   return <>
     <section className="research-controls" aria-label="Filter publications">
       <div className="research-search"><label htmlFor="publication-search">Search publications</label><input id="publication-search" type="search" value={query} onChange={(event)=>setQuery(event.target.value)} placeholder="Title, author, journal, or year" /></div>
-      <div className="topic-filters" role="group" aria-label="Research topics">{topics.map((topic)=><button type="button" className={topic===activeTopic?"active":""} aria-pressed={topic===activeTopic} onClick={()=>setActiveTopic(topic)} key={topic}>{topic}</button>)}</div>
+      <div className="topic-filters" role="group" aria-label="Research themes">{themes.map((topic)=><button type="button" className={topic===activeTopic?"active":""} aria-pressed={topic===activeTopic} onClick={()=>setActiveTopic(topic)} key={topic}>{topic}</button>)}</div>
       <div className="results-meta"><p><strong>{filtered.length}</strong> {filtered.length===1?"publication":"publications"}</p>{(activeTopic!=="All"||query)&&<button type="button" onClick={clear}>Clear filters</button>}</div>
     </section>
 

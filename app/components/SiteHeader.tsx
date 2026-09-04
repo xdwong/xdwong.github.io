@@ -1,9 +1,11 @@
 const links = [
+  ["About", "/about"],
   ["Research", "/research"],
-  ["Service", "/service"],
-  ["Talks", "/talks"],
-  ["Teaching", "/teaching"],
-  ["Team", "/team"],
+  ["Leadership & Impact", "/leadership"],
+  ["AI Institute", "/institute"],
+  ["People", "/people"],
+  ["Media & Talks", "/media"],
+  ["CV", "/cv"],
 ];
 
 export function SiteHeader() {

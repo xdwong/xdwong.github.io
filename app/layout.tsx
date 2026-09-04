@@ -7,14 +7,14 @@ export async function generateMetadata(): Promise<Metadata> {
   const host = requestHeaders.get("x-forwarded-host") ?? requestHeaders.get("host") ?? "localhost:3000";
   const protocol = requestHeaders.get("x-forwarded-proto") ?? (host.startsWith("localhost") ? "http" : "https");
   const imageUrl = `${protocol}://${host}/og.png`;
-  const description = "Dr. Meng Li is a professor and founding director of the Bauer Human-Centered AI Institute at the University of Houston.";
+  const description = "Meng Li is an AI scholar and academic leader who builds research programs, organizations, and partnerships around human-centered AI.";
 
   return {
-    title: "Meng Li | Human-Centered AI & Operations",
+    title: "Meng Li | AI Scholar & Academic Leader",
     description,
     icons: { icon: "/favicon.svg", shortcut: "/favicon.svg" },
-    openGraph: { title: "Meng Li | Human-Centered AI & Operations", description, type: "website", images: [{ url: imageUrl, width: 1792, height: 939, alt: "Meng Li — Human-Centered AI & Operations" }] },
-    twitter: { card: "summary_large_image", title: "Meng Li | Human-Centered AI & Operations", description, images: [imageUrl] },
+    openGraph: { title: "Meng Li | AI Scholar & Academic Leader", description, type: "website", images: [{ url: imageUrl, width: 1792, height: 939, alt: "Meng Li — AI scholar and academic leader" }] },
+    twitter: { card: "summary_large_image", title: "Meng Li | AI Scholar & Academic Leader", description, images: [imageUrl] },
   };
 }
 
