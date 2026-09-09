@@ -2,7 +2,7 @@ import { SiteFooter } from "./components/SiteFooter";
 import { SiteHeader } from "./components/SiteHeader";
 
 const pillars = [
-  { index:"01", label:"Research", title:"AI & Work · Healthcare AI · AI-Enabled Operations", text:"Field evidence and analytical research on how people, organizations, and operational systems adopt and work with artificial intelligence.", href:"/research", link:"Explore research" },
+  { index:"01", label:"Research", title:"AI & Work\nHealthcare AI\nAI-Enabled Operations", text:"Field evidence and analytical research on how people, organizations, and operational systems adopt and work with artificial intelligence.", href:"/research", link:"Explore research" },
   { index:"02", label:"Academic Leadership", title:"Department Leadership · Institute Building · Editorial Leadership", text:"Building academic programs, research communities, and institutional capacity around consequential questions in AI and operations.", href:"/leadership", link:"Leadership & impact" },
   { index:"03", label:"External Impact", title:"Industry Engagement · AI Experimentation · Research Translation", text:"Connecting rigorous research with healthcare, platforms, supply chains, and the organizations implementing AI in practice.", href:"/institute", link:"Human-Centered AI Institute" },
 ];
