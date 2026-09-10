@@ -11,6 +11,6 @@ const groups = [
   ["Other Leadership", ["Panel Discussant, Decision Sciences in Practice, DSI Conference, 2021", "Secretary-Treasurer, INFORMS Service Science Section, 2021–present"]],
 ];
 
-export default function ServicePage(){return <InnerPage index="04" eyebrow="Service" title="Stewardship of the scholarly community." intro="The complete editorial, special-issue, competition, conference, and professional-service record listed on the original site.">
+export default function ServicePage(){return <InnerPage index="04" eyebrow="Service" title="Service" intro="Academic and professional service">
   <div className="group-grid">{groups.map(([title,items]) => <section className="content-group" key={title as string}><p className="section-label">{title}</p><ul>{(items as string[]).map(item=><li key={item}>{item}</li>)}</ul></section>)}</div>
 </InnerPage>}

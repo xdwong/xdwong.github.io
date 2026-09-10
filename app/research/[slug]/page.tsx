@@ -17,7 +17,7 @@ export default async function PublicationPage({ params }: { params: Promise<{slu
         <div className="paper-detail-main"><h1>{paper.title}</h1><p className="detail-authors">{paper.authors}</p><p className="detail-journal">{paper.journal}</p>{paper.note&&<p className="detail-note">{paper.note}</p>}</div>
       </div>
       <div className="paper-facts"><div><span>Type & year</span><strong>{paper.section} · {paper.year}</strong></div><div><span>Research theme</span><strong>{paper.topics.join(" · ")}</strong></div><div><span>Publication</span><strong>{paper.journal}</strong></div></div>
-      <section className="paper-access"><p className="section-label">Read the research</p><div><h2>Publication record and full-text access</h2><p>Use the publisher or working-paper page for the abstract, citation, access options, and available full text.</p>{paper.sourceUrl?<a href={paper.sourceUrl} target="_blank" rel="noreferrer">View publication ↗</a>:<span className="unavailable-link">External record not yet listed</span>}</div></section>
+      <section className="paper-access"><p className="section-label">Publication</p><div><h2>Paper and publisher record</h2>{paper.sourceUrl?<a href={paper.sourceUrl} target="_blank" rel="noreferrer">View publication ↗</a>:<span className="unavailable-link">Link not available</span>}</div></section>
     </article>
     <SiteFooter />
   </main>;

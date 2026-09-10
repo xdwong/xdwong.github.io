@@ -61,7 +61,7 @@ export function PublicationExplorer() {
         <div className="publication-card-side"><time>{paper.year}</time><button type="button" aria-label={`${isOpen?"Close":"Open"} ${paper.title}`} aria-expanded={isOpen} onClick={()=>reveal(paper.slug,"abstract")}>{isOpen?"−":"+"}</button></div>
         {isOpen&&<div className="publication-detail-panel" id={`details-${paper.slug}`}>
           <p className="detail-panel-label">{detailMode === "abstract" ? "Abstract" : "Suggested citation"}</p>
-          {detailMode === "abstract" ? <div><p>{paper.abstract || "An abstract is not included in the original website record. Use the paper or publisher link for the verified abstract and full text."}</p>{paper.sourceUrl&&<a href={paper.sourceUrl} target="_blank" rel="noreferrer">View verified abstract ↗</a>}</div> : <p className="citation-text">{citationFor(paper)}</p>}
+          {detailMode === "abstract" ? <div><p>{paper.abstract || "Abstract not available."}</p>{paper.sourceUrl&&<a href={paper.sourceUrl} target="_blank" rel="noreferrer">View publication ↗</a>}</div> : <p className="citation-text">{citationFor(paper)}</p>}
         </div>}
       </article>;
     })}</div> : <div className="empty-state"><h2>No publications match.</h2><p>Try another topic or search term.</p><button type="button" onClick={clear}>Reset search and filters</button></div>}

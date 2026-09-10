@@ -10,5 +10,4 @@ const overview = [
 export default function CvPage(){return <InnerPage index="07" eyebrow="Curriculum Vitae" title="Curriculum Vitae" intro="Professional overview">
   <div className="cv-intro"><p>Academic appointments, scholarship, editorial leadership, teaching, and mentorship.</p><div><a href="/research">Publications →</a><a href="https://scholar.google.com/citations?hl=en&user=2RJSbyMAAAAJ" target="_blank" rel="noreferrer">Google Scholar ↗</a></div></div>
   <div className="cv-groups">{overview.map(([title,items])=><section key={title as string}><h2>{title}</h2><ul>{(items as string[]).map(item=><li key={item}>{item}</li>)}</ul></section>)}</div>
-  <p className="cv-note">This concise web CV replaces the unfinished template page. For a complete current curriculum vitae, please contact Dr. Li.</p>
 </InnerPage>}
