@@ -52,7 +52,7 @@ export function PublicationExplorer() {
           <button className="publication-title-button" type="button" aria-expanded={isOpen} aria-controls={`details-${paper.slug}`} onClick={()=>reveal(paper.slug,"abstract")}><h2>{paper.title}</h2></button>
           <p>{paper.authors}</p><small>{paper.journal}</small>{paper.note&&<em>{paper.note}</em>}
           <div className="publication-actions">
-            <button type="button" className={isOpen&&detailMode==="abstract"?"active":""} onClick={()=>reveal(paper.slug,"abstract")}>Abstract</button>
+            <button type="button" className={isOpen&&detailMode==="abstract"?"active":""} onClick={()=>reveal(paper.slug,"abstract")}>Summary</button>
             <button type="button" className={isOpen&&detailMode==="cite"?"active":""} onClick={()=>reveal(paper.slug,"cite")}>Cite</button>
             {paper.sourceUrl&&<a href={paper.sourceUrl} target="_blank" rel="noreferrer">Paper ↗</a>}
             <a href={`/research/${paper.slug}`}>Record →</a>
@@ -60,8 +60,8 @@ export function PublicationExplorer() {
         </div>
         <div className="publication-card-side"><time>{paper.year}</time><button type="button" aria-label={`${isOpen?"Close":"Open"} ${paper.title}`} aria-expanded={isOpen} onClick={()=>reveal(paper.slug,"abstract")}>{isOpen?"−":"+"}</button></div>
         {isOpen&&<div className="publication-detail-panel" id={`details-${paper.slug}`}>
-          <p className="detail-panel-label">{detailMode === "abstract" ? "Abstract" : "Suggested citation"}</p>
-          {detailMode === "abstract" ? <div><p>{paper.abstract || "Abstract not available."}</p>{paper.sourceUrl&&<a href={paper.sourceUrl} target="_blank" rel="noreferrer">View publication ↗</a>}</div> : <p className="citation-text">{citationFor(paper)}</p>}
+          <p className="detail-panel-label">{detailMode === "abstract" ? "Research summary" : "Suggested citation"}</p>
+          {detailMode === "abstract" ? <div><p>{paper.abstract || "Summary not available."}</p>{paper.sourceUrl&&<a href={paper.sourceUrl} target="_blank" rel="noreferrer">View publication ↗</a>}</div> : <p className="citation-text">{citationFor(paper)}</p>}
         </div>}
       </article>;
     })}</div> : <div className="empty-state"><h2>No publications match.</h2><p>Try another topic or search term.</p><button type="button" onClick={clear}>Reset search and filters</button></div>}

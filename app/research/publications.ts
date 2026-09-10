@@ -1,3 +1,5 @@
+import { publicationAbstracts } from "./abstracts";
+
 export type Topic = "Human-Centered AI" | "Healthcare" | "Platforms & Retail" | "Behavioral Operations" | "Supply Chains" | "Methods & Practice";
 export type Section = "Business Papers" | "Other Publications" | "Book Chapters";
 
@@ -55,6 +57,10 @@ const publicationRecords: Publication[] = [
   {slug:"ai-operations-management-review",year:"—",title:"AI in Operations Management: Literature Review and Future Research",authors:"Meng Li, Qiang Li, Yao Yao",journal:"Book chapter",topics:["Human-Centered AI","Methods & Practice"],section:"Book Chapters",sourceUrl:"https://papers.ssrn.com/"},
 ];
 
-export const publications: Publication[] = publicationRecords.map((paper) => ({ section: "Business Papers", ...paper }));
+export const publications: Publication[] = publicationRecords.map((paper) => ({
+  section: "Business Papers",
+  ...paper,
+  abstract: paper.abstract || publicationAbstracts[paper.slug],
+}));
 
 export function findPublication(slug: string) { return publications.find((paper) => paper.slug === slug); }
