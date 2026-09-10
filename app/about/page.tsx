@@ -3,7 +3,7 @@ import { InnerPage } from "../components/InnerPage";
 export default function AboutPage(){return <InnerPage index="01" eyebrow="About" title="About" intro="Biography">
   <div className="profile-layout">
     <div className="profile-narrative">
-      <aside><img src="/meng-color.jpg" alt="Dr. Meng Li"/><p>Meng Li</p><span>University of Houston · C.T. Bauer College of Business</span></aside>
+      <aside><img src="/meng-color.jpg" alt="Dr. Meng Li"/><p>Meng Li</p><span>C.T. Bauer College of Business<br/>University of Houston</span></aside>
       <p>Dr. Meng Li is a professor, department chair of Decision & Information Sciences, Endowed C.T. Bauer Chair of AI, and founding director of the Bauer Human-Centered AI Institute at the C.T. Bauer College of Business, University of Houston.</p>
       <p>He is a scholar of human-centered AI, studying how artificial intelligence reshapes organizational decision-making, healthcare delivery, and operational systems. Through research, education, and institution building, he develops evidence-based approaches for integrating AI into human work.</p>
       <p>His research has appeared in <em>Management Science</em>, <em>Manufacturing & Service Operations Management</em>, <em>Operations Research</em>, <em>Production and Operations Management</em>, <em>Journal of Operations Management</em>, <em>Strategic Management Journal</em>, and <em>Nature Sustainability</em>.</p>
