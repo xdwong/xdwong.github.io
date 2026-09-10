@@ -8,6 +8,5 @@ const overview = [
 ];
 
 export default function CvPage(){return <InnerPage index="07" eyebrow="Curriculum Vitae" title="Curriculum Vitae" intro="Professional overview">
-  <div className="cv-intro"><div><a href="/research">Publications →</a><a href="https://scholar.google.com/citations?hl=en&user=2RJSbyMAAAAJ" target="_blank" rel="noreferrer">Google Scholar ↗</a></div></div>
   <div className="cv-groups">{overview.map(([title,items])=><section key={title as string}><h2>{title}</h2><ul>{(items as string[]).map(item=><li key={item}>{item}</li>)}</ul></section>)}</div>
 </InnerPage>}

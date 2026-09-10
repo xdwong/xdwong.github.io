@@ -117,3 +117,10 @@ footer{background:#111916;color:#f4f1e9;padding:100px 6vw 35px;display:grid;grid
 @media(max-width:1180px){.leader-hero{grid-template-columns:minmax(0,1fr) minmax(320px,390px);gap:3vw}.leader-copy h1{font-size:clamp(48px,5vw,58px)}}
 @media(max-width:850px){.leader-hero{grid-template-columns:1fr;min-height:auto;padding-block:44px}.leader-copy h1{font-size:clamp(44px,9vw,58px)}.leadership-intro{max-width:none}}
 @media(max-width:560px){.leader-copy h1{font-size:38px}.leadership-intro p{font-size:29px}.cv-intro{justify-content:flex-start}}
+
+/* Restore the balanced homepage portrait while giving the statement room to breathe. */
+.leader-hero{min-height:500px;grid-template-columns:minmax(0,1fr) 300px;gap:2vw}
+.leader-copy h1{font-size:clamp(52px,4vw,66px)}
+.leader-roles{max-width:none;white-space:nowrap}
+@media(max-width:1180px){.leader-hero{grid-template-columns:minmax(0,1fr) 280px;gap:2.5vw}.leader-copy h1{font-size:clamp(46px,4.7vw,56px)}.leader-roles{white-space:normal}}
+@media(max-width:850px){.leader-hero{grid-template-columns:1fr}.leader-portrait{width:min(100%,300px)}.leader-roles{white-space:normal}}
