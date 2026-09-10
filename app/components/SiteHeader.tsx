@@ -3,7 +3,7 @@ const links = [
   ["Research", "/research"],
   ["Leadership & Impact", "/leadership"],
   ["AI Institute", "/institute"],
-  ["People", "/people"],
+  ["Team", "/team"],
   ["Media & Talks", "/media"],
   ["CV", "/cv"],
 ];

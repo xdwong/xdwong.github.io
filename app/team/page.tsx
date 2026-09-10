@@ -17,7 +17,7 @@ const postdocs = [["Jian Liu","Ph.D. from NUAA and Missouri S&T, 2022–23","Ass
 
 function ScholarList({items}:{items:string[][]}){return <div className="team-grid">{items.map(([name,role,placement,award])=><article className="person-card" key={name+role}><span>{name.split(" ").map(part=>part[0]).join("")}</span><div><h2>{name}</h2><p>{role}</p>{award&&<p className="person-award">Award · {award}</p>}<small>Placement · {placement}</small></div></article>)}</div>}
 
-export default function TeamPage(){return <InnerPage index="05" eyebrow="People" title="People" intro="Student supervision and postdoctoral mentorship.">
+export default function TeamPage(){return <InnerPage index="05" eyebrow="Team" title="Team" intro="Student supervision and postdoctoral mentorship.">
   <div className="inner-section-heading"><p>Doctoral supervision</p><h2>Students</h2></div><ScholarList items={scholars}/>
   <div className="inner-section-heading secondary-heading"><p>Postdoctoral researchers</p><h2>Post-Docs</h2></div><ScholarList items={postdocs}/>
 </InnerPage>}
