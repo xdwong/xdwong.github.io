@@ -24,8 +24,8 @@ export default function Home() {
     <SiteHeader />
     <section className="leader-hero">
       <div className="leader-copy">
-        <p className="leader-name">Meng Li, Ph.D.</p>
-        <h1>Building evidence, organizations, and partnerships for <em>human-centered AI.</em></h1>
+        <p className="leader-name">Meng Li</p>
+        <h1>Building evidence, organizations,<br/>and partnerships for<br/><em>human-centered AI.</em></h1>
         <p className="leader-roles">Department Chair <span>·</span> Endowed C.T. Bauer Chair of AI <span>·</span> Founding Director, Bauer Human-Centered AI Institute</p>
       </div>
       <figure className="leader-portrait"><img src="/meng-color.jpg" alt="Dr. Meng Li"/><figcaption>University of Houston · C.T. Bauer College of Business</figcaption></figure>
