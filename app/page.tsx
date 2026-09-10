@@ -28,7 +28,7 @@ export default function Home() {
         <h1>Building evidence, organizations,<br/>and partnerships for<br/><em>human-centered AI.</em></h1>
         <p className="leader-roles">Department Chair <span>·</span> Endowed C.T. Bauer Chair of AI <span>·</span> Founding Director, Bauer Human-Centered AI Institute</p>
       </div>
-      <figure className="leader-portrait"><img src="/meng-color.jpg" alt="Dr. Meng Li"/><figcaption>University of Houston · C.T. Bauer College of Business</figcaption></figure>
+      <figure className="leader-portrait"><div className="leader-portrait-frame"><img src="/meng-color.jpg" alt="Dr. Meng Li"/></div><figcaption>University of Houston · C.T. Bauer College of Business</figcaption></figure>
     </section>
 
     <section className="leader-bio" id="about"><p className="section-label">About</p><div><p>Dr. Meng Li is a professor, department chair of Decision & Information Sciences, Endowed C.T. Bauer Chair of AI, and founding director of the Bauer Human-Centered AI Institute at the University of Houston. His work examines how artificial intelligence reshapes organizational decision-making, healthcare delivery, and operational systems.</p><a href="/about">Full biography →</a></div></section>
