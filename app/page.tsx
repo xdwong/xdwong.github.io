@@ -14,7 +14,6 @@ const selected = [
 ];
 
 const news = [
-  ["2026", "Five articles published or forthcoming in leading operations journals."],
   ["2025", "Appointed Endowed C.T. Bauer Chair of AI and received the President’s Circle Award."],
   ["2024", "Delivered the John Aure Buesseler Distinguished Lecture at Texas Tech."],
 ];
